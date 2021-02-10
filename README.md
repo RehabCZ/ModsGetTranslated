@@ -1,2 +1,4 @@
 # ModsGetTranslated
-Translating mods for Minecraft
+Translating mods for Minecraft (currently 1.12.2)
+
+Looking for translators!!
