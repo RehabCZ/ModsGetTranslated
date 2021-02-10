@@ -1,0 +1,400 @@
+achievement.openblocks.droppedBrick=Zoinks!
+achievement.openblocks.droppedBrick.desc=Mi spiace, è appena accaduto...
+stat.openblocks.bricksDropped=Mattoni gettati
+achievement.openblocks.stackOverflow=Memoria stack esaurita!
+achievement.openblocks.stackOverflow.desc=È pieno di stelle!
+
+openblocks.keybind.category=OpenBlocks
+openblocks.keybind.drop_brick=Essere sciocchi
+#openblocks.keybind.vario_switch=Vario on/off ## NEEDS TRANSLATION ##
+#openblocks.keybind.vario_vol_up=Vario volume up ## NEEDS TRANSLATION ##
+#openblocks.keybind.vario_vol_down=Vario volume down ## NEEDS TRANSLATION ##
+
+enchantment.openblocks.explosive=Instabile
+enchantment.openblocks.laststand=Ultimo in Piedi
+enchantment.openblocks.flimflam=Sciocchezza
+
+openblocks.gui.blocks=Blocchi
+openblocks.gui.items=Oggetti
+openblocks.gui.misc=Miscellanea
+openblocks.gui.changelogs=Changelog
+
+openblocks.gui.features=Contenuti
+openblocks.gui.bugfixes=Sistemazioni di bug
+openblocks.gui.tweaks=Modifiche
+
+openblocks.gui.luggage=Valigia
+openblocks.gui.sprinkler=Irrigatore
+openblocks.gui.vacuumhopper=Tramoggia a Vuoto
+openblocks.gui.bigbutton=Grande Pulsante
+openblocks.gui.xpbottler=Imbottigliatore di Punti Esperienza
+openblocks.gui.autoanvil=Incudine Automatica
+openblocks.gui.autoeject=Espulsione automatica
+openblocks.gui.autoextract=Estrazione automatica
+openblocks.gui.autodrink=Aspirazione liquidi automatica
+openblocks.gui.autoenchantmenttable=Tavolo da Incantamento Automatico
+openblocks.gui.donationstation=Postazione Donazioni
+openblocks.gui.itemdropper=Gettatore di Oggetti
+openblocks.gui.blockplacer=Piazzatore di Blocchi
+openblocks.gui.paintmixer=Miscelatore di Pittura
+openblocks.gui.drawingtable=Tavolo da Disegno
+openblocks.gui.digitalfuse=Innesco digitale
+openblocks.gui.xp_outputs=Emissione di Punti Esperienza
+openblocks.gui.item_outputs=Emissione di Oggetti
+#openblocks.gui.limit=Limit ## NEEDS TRANSLATION ##
+#openblocks.gui.available_power=Available power: %d ## NEEDS TRANSLATION ##
+openblocks.gui.save_folder=Cartella di salvataggio
+
+#openblocks.gui.drawingtable.stencils=Stencils ## NEEDS TRANSLATION ##
+#openblocks.gui.drawingtable.glyphs=Glyphs ## NEEDS TRANSLATION ##
+#openblocks.gui.drawingtable.print=Print ## NEEDS TRANSLATION ##
+
+openblocks.gui.welcome.title=Benvenuto!
+openblocks.gui.welcome.content=OpenBlocks è una nuova mod "open source" che introduce una varietà di idee in Minecraft, tra cui deltaplani, ascensori, taniche, tombe, dipinti, gru, punti esperienza liquidi, cartografi, trofei e altro!
+
+openblocks.gui.credits.title=Riconoscimenti
+openblocks.gui.credits.content=§lBoq, Mikee e NeverCast§r - Capi sviluppatori di OpenBlocks (possiamo "riconoscerci" da soli?)\n\n§lSinZ e Yoshi2§r - membri del gruppo OpenMods dall'inizio.\n\n§lVexatos e crafteverywhere§r - Traduttori regolari delle mod.\n\nTutti gli altri che hanno contribuito al codice per i passati due anni.\n\n§lDirewolf20 e il resto di ForgeCraft§r - per aver fronteggiato i bug e i crash prima dei rilasci.\n\nOgnuno che ha fatto degli "spotlight", "let's play" e ha in generale supportato la mod da quando abbiamo iniziato!
+
+openblocks.gui.config.title=Facili Modifiche della Configurazione
+openblocks.gui.config.content=OpenMods permette sia alle opzioni di configurazione del client sia a quelle del server di essere modificate da comandi in chat. Alcune non hanno nemmeno bisogno di un riavvio!\n\nLe impostazioni di configurazione del server possono essere modificate usando '§l/om_config_s§r' (OP necessario) e le impostazioni di configurazione del client possono essere modificate con '§l/om_config_c§r'\n\nPer esempio:\n\n§l/om_config_s set OpenBlocks dropblock elevatorDrainsXP false§r\n§l/om_config_s save§r\n\nPer una lista completa dei comandi scrivi: §l/help om_config_s§r or §l/help om_config_c§r
+
+openblocks.gui.restore_inv.title=Backup dell'Inventario
+openblocks.gui.restore_inv.content=Ognuno può fare degli errori. Ma con il comando §l/ob_inventory§r si può rimediare ad alcuni. Questo comando può essere usato per ripristinare l'inventario. Il backup viene creato quando:\n - un giocatore muore\n - una tomba appare \n - un giocatore esegue il comando §l/ob_inventory store§r\n\nPer ripristinare l'inventario si ha bisogno del nome del backup. Vai nella cartella sotto o nella cartella dei salvataggi sul server e cerca dei file chiamati §linventory-*.dat§r. Poi ripristina l'inventario con §l/ob_inventory restore <player> <id>§r - dove id è o il nome del file completo o solo la parte centrale, senza §linventory-§r e §l.dat§r. Si può anche usare il completamento automatico (TAB). I backup sono dei normali file NBT e possono essere aperti con ogni editor.
+
+openblocks.gui.bkey.title=L'infamante tasto 'B'
+openblocks.gui.bkey.content=Il tasto 'B' è un tasto molto speciale in OpenBlocks.\n\nL'abilitazione dell'opzione di configurazione 'weAreSeriousPeople' nella categoria 'tomfoolery' sia nel file di configurazione del client sia in quello del server ti darà il tuo personale sistema digestivo.\n\nProva a mangiare un po' di quella gustosa argilla e poi premi 'B' per digerire!
+
+openblocks.gui.unstable.title=Incantamento "Instabile"
+openblocks.gui.unstable.content=Abbiamo ricevuto una serie di rapporti non confermati che dicono che questo incantamento rende instabile ogni polvere da sparo che stai trasportando quando vieni attaccato o quando salti da qualcosa.\n\nUsalo a tuo rischio!
+
+openblocks.gui.flimflam.title=Incantamento "Sciocchezza"
+openblocks.gui.flimflam.content=Gli scienziati devono ancora scoprire le proprietà di questo incantamento.
+
+openblocks.gui.laststand.title=Incantamento "Ultimo in Piedi"
+openblocks.gui.laststand.content=L'incantamento "Ultimo in Piedi" usa la tua barra dell'esperienza come protezione finale contro la morte.\n\nQuando raggiungi il mezzo cuore, il gioco prenderà punti esperienza ogni volta che riceverai danno invece di ucciderti. Maggiore il numero di incantamenti posseduti, minore sarà il numero dei punti esperienza sottratti.
+
+openblocks.changelog.title=Cosa c'è di nuovo in OpenBlocks %s
+openblocks.misc.url=URL: %s
+openblocks.misc.type=Tipo: %s
+openblocks.misc.uses=Usi: %.2f
+openblocks.misc.color=Colore: %06X
+openblocks.misc.mode=Modalità di piazzamento: %s
+openblocks.misc.mode.block=Blocco
+openblocks.misc.mode.panel=Pannello
+openblocks.misc.mode.half_panel=Pannello a Mezz'altezza
+openblocks.misc.mode.stairs=Scale
+openblocks.misc.mode.inverted_block=Blocco Invertito
+openblocks.misc.mode.inverted_panel=Pannello Invertito
+openblocks.misc.mode.inverted_half_panel=Pannello a Mezz'altezza Invertito
+openblocks.misc.mode.inverted_stairs=Scale Invertite
+openblocks.misc.structure_pos=Debug: trovata struttura %s a (%d,%d,%d)
+openblocks.misc.locked=Bloccato
+openblocks.misc.selected_cannon=Cannone selezionato per il puntamento
+openblocks.misc.pointed_cannon=Cannone puntato su %s, %s, %s
+openblocks.misc.change_mode=Cambiando modalità a %s
+openblocks.misc.change_size=Modificando dimensione in %sx%sx%s
+openblocks.misc.change_box_size=Modificando dimensione in (%d,%d,%d):(%d,%d,%d)
+openblocks.misc.total_blocks=Conto totale blocchi: %d
+openblocks.misc.get_witched=Diventa stregato!
+openblocks.misc.page=Pagina %d di %d
+openblocks.misc.oh_no_ceiling=Non ti puoi addormentare lì. Il soffitto ti disturba troppo...
+openblocks.misc.oh_no_ground=Vuoi dormire su QUEL COSO!?
+openblocks.misc.sleeping_bag_broken=Oggetto disattivato in quanto l'inizializzazione è fallita
+#openblocks.misc.inverted=Inverted ## NEEDS TRANSLATION ##
+#openblocks.misc.structure_not_locked=Not locked on any structure! ## NEEDS TRANSLATION ##
+#openblocks.misc.locked_on_nearest_structure=Locked on nearest %s ## NEEDS TRANSLATION ##
+#openblocks.misc.locked_on_structure=Locked on %s ## NEEDS TRANSLATION ##
+#openblocks.misc.no_nearby_structures=Can't find any nearby structures ## NEEDS TRANSLATION ##
+
+openblocks.misc.grave_msg=%s (Giorno: %.1f)
+
+openblocks.misc.cant_restore_player=Impossibile ripristinare l'inventario del giocatore %s
+openblocks.misc.cant_restore_inventory=Impossibile ripristinare l'inventario
+openblocks.misc.cant_store=Impossibile memorizzare l'inventario del giocatore %s
+openblocks.misc.invalid_sub_inventory=Impossibile ripristinare il sotto-inventario %s
+openblocks.misc.stored_inventory=Memorizzato l'inventario del giocatore in %s
+openblocks.misc.restored_inventory=Ripristinato l'inventario del giocatore %s
+openblocks.misc.invalid_index=Indice non valido
+openblocks.misc.empty_slot=Nessun oggetto nello slot
+
+openblocks.misc.pedometer.tracking_reset=Ripristino tracciamento
+openblocks.misc.pedometer.tracking_started=Inizio tracciamento
+
+openblocks.misc.pedometer.start_point=Punto d'inizio: %s
+openblocks.misc.pedometer.speed=Velocità: %s
+openblocks.misc.pedometer.avg_speed=Velocità media: %s
+openblocks.misc.pedometer.total_distance=Distanza totale: %s
+
+openblocks.misc.pedometer.straght_line_distance=Distanza in linea retta: %s
+openblocks.misc.pedometer.straigh_line_speed=Velocità in linea retta: %s
+
+openblocks.misc.pedometer.last_check_distance=Distanza dall'ultimo controllo: %s
+openblocks.misc.pedometer.last_check_speed=Velocità dell'ultimo controllo: %s
+openblocks.misc.pedometer.last_check_time=Tempo percorso dall'ultimo controllo: %d tick
+
+openblocks.misc.pedometer.total_time=Tempo totale: %d tick
+
+openblocks.misc.shape=Forma: %s
+openblocks.misc.shape.sphere=Sfera
+openblocks.misc.shape.cylinder=Cilindro
+openblocks.misc.shape.cuboid=Cuboide
+openblocks.misc.shape.full_cuboid=Cuboide Intero
+openblocks.misc.shape.dome=Cupola
+openblocks.misc.shape.triangle=Triangolo
+openblocks.misc.shape.pentagon=Pentagono
+openblocks.misc.shape.hexagon=Esagono
+openblocks.misc.shape.octagon=Ottagono
+openblocks.misc.shape.axes=Assi
+openblocks.misc.shape.planes=Piani
+
+openblocks.misc.box=Dimensioni: (%d,%d,%d):(%d,%d,%d)
+openblocks.misc.width=Larghezza: %d
+openblocks.misc.height=Altezza: %d
+openblocks.misc.depth=Profondità: %d
+
+openblocks.misc.radio.too_many=Troppe radio stanno già suonando
+openblocks.misc.radio.invalid_stream=Flusso non valido
+openblocks.misc.radio.invalid_url=URL non valido
+openblocks.misc.radio.url_not_found=URL non trovato
+openblocks.misc.radio.unknown_stream_type=Tipo di flusso sconosciuto
+openblocks.misc.radio.malformed_data=Dati corrotti nel flusso
+openblocks.misc.radio.not_ready=Flusso non pronto, prova di nuovo più tardi
+openblocks.misc.radio.cant_connect=Impossibile connettersi
+openblocks.misc.radio.unknown_error=Errore sconosciuto
+openblocks.misc.radio.muted=I suoni sono mutati!
+
+openblocks.misc.side.east=Lato Est
+openblocks.misc.side.west=Lato Ovest
+openblocks.misc.side.north=Lato Nord
+openblocks.misc.side.south=Lato Sud
+openblocks.misc.side.up=Lato Superiore
+openblocks.misc.side.down=Lato inferiore
+
+openblocks.misc.command.invalid=Argomenti del comando non validi
+openblocks.misc.command.no_flim_flam=Nome sciocchezza invalido
+openblocks.misc.command.flim_flam_source=Il giocatore %s ha subito con successo la sciocchezza %s
+openblocks.misc.command.flim_flam_target=A qualcuno non piaci. A qualcuno che ha il potere
+openblocks.misc.command.flim_flam_failed=Applicazione della sciocchezza fallita!
+openblocks.misc.command.luck_added=Fortuna modificata per il giocatore %s, corrente: %d
+openblocks.misc.command.luck_current=La fortuna del giocatore %s è: %d
+
+#openblocks.misc.total_ticks=Total ticks: %d (%.2fs) ## NEEDS TRANSLATION ##
+
+openblocks.misc.hidden_lore=§a§oTieni premuto ALT per vedere la cronologia§r
+openblocks.flim_flammed=Qualcosa di strano accade intorno a te...
+
+#openblocks.misc.dropper.speed=Speed ## NEEDS TRANSLATION ##
+#openblocks.misc.dropper.use_redstone=Scale by redstone signal strength ## NEEDS TRANSLATION ##
+
+openblocks.turtle.magnet=Magnete
+
+tile.openblocks.elevator.name=Ascensore
+tile.openblocks.elevator.description=Piazza un ascensore direttamente tre o quattro blocchi sopra un altro senza altri blocchi fra i due e tu potrai sia 'saltare' per salire sia 'accovacciarti' per scendere. Gli ascensori possono essere colorati cliccando su di essi con della tintura. Puoi teletrasportarti solo tra ascensori dello stesso colore, però.
+
+tile.openblocks.elevator_rotating.name=Ascensore Rotante
+
+tile.openblocks.heal.name=Curatore
+tile.openblocks.heal.description=Il blocco curatore è un blocco solo per la modalità creativa che rilascia un leggero effetto curatore man mano che passa il tempo.
+
+tile.openblocks.guide.name=Guida di Costruzione
+tile.openblocks.guide.description=La Guida di Costruzione, una volta attivata con della pietrarossa, mosterà una "linea-guida" di blocchi fantasma di differenti forme e dimensioni che ti aiuteranno a pianificare il design delle stanze.\nUsa i pulsanti sensibili al tocco presenti sul blocco per modificare le dimensioni e le forme della "linea-guida".\nI colori degli indicatori possono essere modificati utilizzando della tintura sul blocco centrale.
+
+tile.openblocks.builder_guide.name=Guida di Costruzione Potenziata
+tile.openblocks.builder_guide.description=Questa versione potenziata della Guida di Costruzione non mostra solo dei blocchi fantasma per rendere la costruzione più facile, ma ti permette anche di piazzare veri e propri blocchi. Clicca semplicemente il blocco centrale con ogni gruppo di blocchi necessario!\nQuando sei nella modalità creative, puoi posizionare un blocco di ossidiana su di essa, poi colpire la guida di costruzione con ogni blocco che tu voglia per creare automaticamente la forma desiderata.
+
+tile.openblocks.ladder.name=Scala a Pioli Impassibile
+tile.openblocks.ladder.description=La scala a pioli impassibile risolve quello scocciante problema di dover saltare fuori da una botola in cima ad una scala a pioli. La scala a pioli impassibile funge sia da botola sia da scala a pioli allo stesso momento.
+
+tile.openblocks.tank.filled.name=Tanica di %s
+tile.openblocks.tank.name=Tanica
+tile.openblocks.tank.description=Le taniche possono contenere liquidi. Se si piazzano delle taniche una vicino all'altra, esse distribuiranno i loro liquidi tra le taniche. Si possono piazzare liquidi nelle taniche usando dei secchi. Se la tanica contiene Esperienza Liquida, puoi fare clic su di essa con una mano vuota per ottenere parte dei punti esperienza. Quando vengono rotte, le taniche mantengono i loro liquidi.
+
+tile.openblocks.flag.name=Bandiera
+tile.openblocks.flag.description=Le bandiere possono essere usate come decorazione o per segnare la via per uscire da una caverna in cui sei entrato. La bandiera punterà nella direzione in cui viene piazzata, oppure può essere messa sui muri. Se si fa shift-click con una bandiera nelle mani, essa cambierà colore.
+
+tile.openblocks.beartrap.name=Trappola per Orsi
+tile.openblocks.beartrap.description=Piazza una trappola per orsi e cliccala per aprirla. Quando un mob cammina sulla trappola, non potrà più muoversi!
+
+tile.openblocks.sponge.name=Spugna
+tile.openblocks.sponge.description=La spugna è un rimpiazzo per la spugna Vanilla. È perfetta per rimuovere piccole sacche di lava o acqua. Stai attento quando la usi su larghe aree di un liquido, però, perché inizierà ad essere abbastanza confusionario.
+
+item.openblocks.sponge_on_a_stick.name=Spugna
+item.openblocks.sponge_on_a_stick.description=La spugna su un bastone è uno strumento per pulire liquidi. Funziona esattamente come la spugna, ma è molto più mobile alle spese di esaurirsi.
+
+item.openblocks.epic_eraser.name=Gomma Epica
+item.openblocks.epic_eraser.description=Ogni oggetto ha la sua storia...\n\nNon ti dà fastidio?\nCon questo oggetto puoi eliminare tutte le tracce delle epiche frasi che il tuo bottino ha collezionato negli anni e poi rivenderlo al mercato nero senza preoccuparti di aver lasciato prove.
+
+tile.openblocks.cannon.name=Cannone di Oggetti
+tile.openblocks.cannon.description=Quando gli viene applicato un segnale di pietrarossa, il cannone di oggetti sparerà tutti gli oggetti che trova in un inventario adiacente. Usa l'oggetto 'Puntatore' per mirare con il cannone.
+
+tile.openblocks.rope_ladder.name=Scala di Corda
+tile.openblocks.rope_ladder.description=Quando la scala di corda viene piazzata, essa si svolgerà fino a toccare il terreno. Per ogni blocco di scale creato, un oggetto del proprio gruppo verrà usato.
+
+tile.openblocks.sprinkler.name=Irrigatore
+tile.openblocks.sprinkler.description=L'irrigatore aiuterà a fertilizzare le colture fino a 4 blocchi di distanza. Semplicemente piazzalo sopra ad una tanica degli OpenBlocks riempita d'acqua! Puoi anche aggiungere della farina d'ossa per un velocità di crescita ancora più elevata.\nFunge anche come un blocco di acqua sorgente!
+
+tile.openblocks.paint_mixer.name=Miscelatore di Pittura
+tile.openblocks.paint_mixer.description=Il miscelatore di pittura può mescere fra loro tutti i colori di tempera che vuoi! Getta o un secchio di tempera esistente o un secchio di latte nello spazio superiore, poi della tintura ciano, magenta, gialla o nera negli altri quattro spazi e clicca su mescola!
+
+tile.openblocks.canvas.name=Tela
+tile.openblocks.canvas.description=La tela è un blocco perfettamente bianco che è perfetto per pitturare. Controlla anche il Miscelatore di Pittura per ottenere alcune informazioni sul creare tempere.
+
+#tile.openblocks.canvas_glass.name=Canvas ## NEEDS TRANSLATION ##
+
+tile.openblocks.fan.name=Ventola
+tile.openblocks.fan.description=La ventola spingerà giocatori, mob o entità nella direzione in cui è rivolta.
+
+tile.openblocks.target.name=Bersaglio
+tile.openblocks.target.description=Il bersaglio emette un segnale di pietrarossa di una forza relativa all'accuratezza della mira del giocatore. Fornisci al bersaglio un segnale di pietrarossa per farlo alzare!
+
+tile.openblocks.path.name=Percorso
+tile.openblocks.path.description=Il percorso non serve a niente. Ha solo una funzione estetica!
+
+tile.openblocks.item_dropper.name=Gettatore di Oggetti
+tile.openblocks.item_dropper.description=Il gettatore di oggetti è similare al gettatore Vanilla, eccetto che getta gli oggetti direttamente verso il basso in linea retta.
+
+tile.openblocks.big_button.name=Grande Pulsante
+tile.openblocks.big_button.description=Il grande pulsante è un pulsante largo che può essere piazzato sui muri. Se si fa shift-click sul bottone con una mano vuota, si aprirà un inventario con uno spazio singolo. Si possono inserire degli oggetti in questo spazio per aumentare la durata per la quale il bottone rimane premuto - un oggetto aumenta la durata di un tick.
+
+#tile.openblocks.big_button_wood.name=Wooden Big Button ## NEEDS TRANSLATION ##
+
+tile.openblocks.xp_drain.name=Drenatore di Punti Esperienza
+tile.openblocks.xp_drain.description=Piazza il drenatore di punti esperienza su una tanica degli OpenBlocks e salici sopra. I tuoi punti esperienza saranno drenati nella tanica, che poi potrà essere usata per blocchi tipo il tavolo da incantamento automatica o l'incudine automatica.
+
+tile.openblocks.vacuum_hopper.name=Tramoggia a Vuoto
+tile.openblocks.vacuum_hopper.description=La tramoggia a vuoto risucchia tutti gli oggetti e le sfere d'esperienza attorno a lui. Si possono usare le schede sulla destra dell'interfaccia per selezionare su quali lati si devono emettere gli oggetti risucchiati.
+
+tile.openblocks.village_highlighter.name=Visualizzatore di Villaggi
+tile.openblocks.village_highlighter.description=Piazza il visualizzatore di villaggi in un villaggio e forniscigli un segnale di pietrarossa. Verranno mostrati i confini del villaggio e verrà disegnata una scatola nella zona di apparizione dei golem di ferro. Utile se vuoi fare in modo che i vari villaggi si intersechino fra di loro o se stai costruendo un generatore di ferro!
+
+tile.openblocks.donation_station.name=Postazione Donazioni
+tile.openblocks.donation_station.description=Ami un blocco o un oggetto e vuoi mostrare allo sviluppatore della mod un po' di apprezzamento? Mettilo nella postazione donazioni e, se noi conosciamo la pagina donazioni dell'autore, ti mostreremo un link.
+
+tile.openblocks.block_placer.name=Piazzatore di Blocchi
+tile.openblocks.block_placer.description=Quando gli viene fornito un impulso di pietrarossa, il piazzatore di blocchi piazzerà un oggetto nella direzione in cui è rivolto.
+
+tile.openblocks.block_breaker.name=Distruttore di Blocchi
+tile.openblocks.block_breaker.description=Quando gli viene fornito un impulso di pietrarossa, il distruttore di blocchi romperà il blocco verso cui è rivolto.
+
+tile.openblocks.projector.name=Proiettore della Mappa di Altitudine
+tile.openblocks.projector.description=Ti lascio scrivere questa, boq!
+#tile.openblocks.projector.working.name=Height Map Projector ## NEEDS TRANSLATION ##
+
+tile.openblocks.auto_enchantment_table.name=Tavolo da Incantamento Automatico
+tile.openblocks.auto_enchantment_table.description=Il tavolo da incantamento automatico funziona in una maniera simile al tavolo da incantamento Vanilla, eccetto che funziona con l'Esperienza Liquida. Usa le schede sul lato destro dell'interfaccia per selezionare dove gli oggetti o i punti esperienza verranno presi. Esattamente come il tavolo da incantamento Vanilla, sono richieste le librerie per avere livelli di incantamento maggiori.
+
+tile.openblocks.xp_bottler.name=Imbottigliatore di Punti Esperienza
+tile.openblocks.xp_bottler.description=L'imbottigliatore di punti esperienza aspira esperienza liquida e poi la imbottiglia nelle bottiglie di vetro per ottenere delle bottiglie de' incantagione.
+
+tile.openblocks.auto_anvil.name=Incudine Automatica
+tile.openblocks.auto_anvil.description=L'incudine automatica funziona esattamente come l'incudine Vanilla, ad eccezione del fatto che funziona con l'Esperienza Liquida e che può essere completamente automatizzata.\n\nUsa le schede sulla destra dell'interfaccia per selezionare su quali lati dell'incudine gli oggetti o i liquidi possono essere inseriti o estratti. Fai clic col tasto destro del mouse sull'incudine e trascinala per girarla e selezionare altri lati!
+
+tile.openblocks.drawing_table.name=Tavolo da Disegno
+tile.openblocks.drawing_table.description=Il tavolo da disegno è usato per creare stampi che possono essere usati mentre si dipinge. Inserisci uno Stampo Non Preparato nel tavolo da disegno, poi usa le frecce per selezionare quale stampo vuoi creare!
+
+tile.openblocks.grave.name=Tomba
+tile.openblocks.trophy.name=Trofeo
+tile.openblocks.trophy.entity.name=Trofeo di %s
+tile.openblocks.canvasglass.name=Tela Vetrosa
+tile.openblocks.paint_can.name=Lattina di Pittura
+
+tile.openblocks.sky.normal.name=Blocco di Cielo
+tile.openblocks.sky.normal.description=Porta il fuori dentro con il nuovo Blocco di cielo! Fornisci semplicemente un segnale di pietrarossa. Offriamo anche una versione invertita.
+tile.openblocks.sky.inverted.name=Blocco di Cielo Invertito
+
+tile.openblocks.radio.name=Radio
+tile.openblocks.radio.description=La radio ti permette di trasmettere in streaming la tua internet radio! Prima, hai bisogno di alcuni cristalli sintonizzati che puoi trovare nelle casse dei dungeon o da un villico speciale. Metti il cristallo nella radio e forniscile un segnale di pietrarossa per accenderlo. La potenza del segnale controlla il volume.\n\nPuoi configurare quali stazioni radio sono disponibili nel file di configurazione del server.
+
+tile.openblocks.xp_shower.name=Doccia di Punti Esperienza
+tile.openblocks.xp_shower.description=Attacca una doccia di punti esperienza ad una tanica di esperienza liquida ed essa emetterà sfere di esperienza. Queste sfere possono essere raccolte da un drenatore di punti esperienza o da un Collettore della MFR.
+
+tile.openblocks.scaffolding.name=Impalcatura
+tile.openblocks.scaffolding.description=Hai mai desiderato di creare un pilastro per salire da qualche parte senza lasciare una bruttissima torre dietro? Beh, ora puoi! Semplicemente usa le impalcature per costruire ed esse scompariranno automaticamente quando avrai finito.
+
+tile.openblocks.golden_egg.name=Uovo Dorato
+
+tile.openblocks.digitalfuse.name=Innesco Digitale
+
+item.openblocks.cursor.name=Cursore
+item.openblocks.cursor.description=Il cursore ti permetterà di cliccare su vari blocchi da remoto.\nFai semplicemente shift-click su un blocco per collegarlo al cursore, poi usa il cursore dovunque vuoi per cliccare sul blocco selezionato. Attenzione, in quanto secondo le impostazioni predefinite il cursore usa una quantità dei tuoi punti esperienza pari alla distanza dal blocco su cui stai "cliccando".
+
+item.openblocks.dev_null.name=/dev/null
+item.openblocks.dev_null.description=Clicca usando /dev/null per aprire il suo inventario. C'è un unico spazio nell'inventario - metti un oggetto lì dentro - terra, per esempio. Mentre raccogli terra dal terreno, quello spazio si riempirà. Una volta pieno, ogni altro blocco di terra che raccoglierai sarà automaticamente eliminato. Puoi fare shift-click con l'oggetto in mano per piazzare il blocco contenuto!
+
+item.openblocks.slimalyzer.name=Slime-alizzatore
+item.openblocks.slimalyzer.description=Cammina attorno con lo slime-alizzatore nella tua mano ed esso si illuminerà ogni volta che ti troverai in un chunk dove appaiono Slime.
+
+item.openblocks.hang_glider.name=Deltaplano
+item.openblocks.hang_glider.description=Il deltaplano si spiega da solo. Tienilo in mano e clicca per piazzarlo sulla tua schiena. Ora salta!\nPer aumentare la tua velocità puoi premere Shift mentre stai planando, ma attento, perderai altitudine più velocemente!
+
+item.openblocks.glider_wing.name=Ala del Deltaplano
+
+item.openblocks.sleeping_bag.name=Sacco a Pelo
+item.openblocks.sleeping_bag.description=Il sacco a pelo permette di dormire nella natura senza dover ripristinare il proprio punto di apparizione. Per dormire, si indossa semplicemente sulla propria schiena.
+
+item.openblocks.luggage.name=Valigia
+item.openblocks.luggage.description=Valigia è il tuo nuovo amico. Lei ti seguirà dovunque andrai, raccogliendo ogni oggetto che trova sul pavimento. Gnam gnam gnam!\nPer smontarla, fai semplicemente shift-click su di lei e immediatamente lei tornerà ad essere un oggetto che puoi trasportare.\nSemmai lei dovesse essere colpita da una saetta, sarà in grado di trasportare ancora più oggetti!
+
+item.openblocks.sonic_glasses.name=Occhiali Sonici
+item.openblocks.sonic_glasses.description=Ecco a voi i nuovi e fantastici Occhiali Sonici!\n Questa nuova ed eccitante tecnologia dalla OpenMods Inc ti permetterà di vedere quello che senti!
+
+item.openblocks.squeegee.name=Lavavetri
+item.openblocks.squeegee.description=Il lavavetri rimuove la pittura da ogni blocco dipinto. Clicca semplicemente sul lato del blocco da cui vuoi rimuovere la pittura, o alternativamente fai shift-click sul blocco per rimuovere la pittura da tutti i lati!
+
+item.openblocks.paintbrush.name=Pennello
+item.openblocks.paintbrush.description=I pennelli ti permettono di dipingere i blocchi con ogni colore che vuoi!\n\nPicchietta il tuo pennello su una Lattina di Pittura fatta nel Miscelatore di Pittura, poi clicca su un blocco per dipingerlo.\n\nI blocchi di Tela sono perfetti per dipingere, ma puoi anche dipingere un bel po' di blocchi Vanilla e anche alcuni blocchi di altre mod. Puoi anche piazzare degli stampi sui blocchi e poi dipingere sullo stampo!
+
+item.openblocks.unprepared_stencil.name=Stampo non Preparato
+item.openblocks.unprepared_stencil.description=Gli stampi possono essere piazzati sui blocchi e poi dipinti sui blocchi usando i pennello!\n\nPuoi dipingere un blocco usando stampi multipli e puoi cliccare su di essi con una mano vuota per ruotarli. Piazza uno Stampo non Preparato in un Tavolo da Disegno per creare diversi motivi.
+
+item.openblocks.crane_backpack.name=Zaino della Gru
+item.openblocks.crane_backpack.description=Nel mondo di Minecraft, "magnete" è un'antica parola per "questo come funzionano?".\n\nQuesto particolare pezzo di vero equipaggiamento ti permette di prendere e trasportare mob, giocatori, oggetti e blocchi. Può essere controllato con il controllore del magnete.
+
+item.openblocks.crane_control.name=Controllore della Gru
+item.openblocks.crane_control.description=Questo telecomando wireless ad alta tecnologia è usato per controllare gli zaini magnetici.\n\nFai clic destro per alzare la gru, accovacciati poi fai clic destro per abbassarla, tasto sinistro per prendere e rilasciare.\nUn segnale lampeggiante indica che qualcosa è sotto al magnete.
+
+item.openblocks.wrench.name=Grande Barra di Metallo
+item.openblocks.wrench.description=Questo strumento estremamente sofisticato è usato per trasformare oggetti con simmetria ottaedra.\n\n\nO semplicemente un grande e stupido pezzo di metallo che puoi usare per ruotare cubi e altre cose.\n\nQuinfi sì, è semplicemente un'altra chiave inglese. Sto solo cercando di essere originale, ok?
+
+#item.openblocks.glyph.name=Glyph ## NEEDS TRANSLATION ##
+#item.openblocks.glyph.with_char='%c' Glyph ## NEEDS TRANSLATION ##
+
+item.openblocks.stencil.name=Stampo
+item.openblocks.crayon.name=Pastello Magico
+item.openblocks.pencil.name=Matita Magica
+item.openblocks.glasses.pencil.name=Occhiali di Matita
+item.openblocks.glasses.crayon.name=Occhiali di Pastello
+item.openblocks.glasses.technicolor.name=Fantastici Occhiali Technicolor
+item.openblocks.glasses.admin.name=Occhiali da Duro
+item.openblocks.crane_engine.name=Motore della Gru
+item.openblocks.crane_magnet.name=Magnete della Gru
+item.openblocks.beam.name=Trave
+item.openblocks.line.name=Linea
+item.openblocks.miracle_magnet.name=§5Magnete Miracoloso§r
+item.openblocks.info_book.name=Dominazione del Mondo con gli OpenBlocks
+item.openblocks.xp_bucket.name=Secchio di Punti Esperienza
+item.openblocks.height_map.name=Mappa Altimetrica
+item.openblocks.empty_map.name=Mappa Vuota
+item.openblocks.map_controller.name=Modulo Controllore della Mappa
+item.openblocks.map_memory.name=Modulo di Memoria della Mappa
+item.openblocks.cartographer.name=Cartografo
+item.openblocks.assistant_base.name=Base dell'Assistente
+item.openblocks.sketching_pencil.name=Matita da Schizzi
+item.openblocks.tasty_clay.name=Argilla Saporita
+item.openblocks.golden_eye.name=Occhio dorato
+item.openblocks.pointer.name=Puntatore
+item.openblocks.tuned_crystal.name=Cristallo Sintonizzato
+item.openblocks.pedometer.name=Contapassi
+
+item.openblocks.wallpaper.name=Sfondo
+
+itemGroup.tabOpenBlocks=OpenBlocks
+
+entity.openblocks.luggage.name=Valigia
+entity.openblocks.cartographer.name=Cartografo
+entity.openblocks.block.name=Blocco Ondeggiante
+entity.openblocks.mini_me.name=Piccolo Me
+
+fluid.openblocks.xp_juice=Esperienza Liquida
+
+#entity.Villager.audiophile=Audiophile ## NEEDS TRANSLATION ##

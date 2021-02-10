@@ -1,0 +1,123 @@
+//**********//
+//EXTRACELLS//
+//**********//
+
+//Items
+extracells.item.storage.physical.256k.name=МЭ 256Кб хранилище
+extracells.item.storage.physical.1024k.name=МЭ 1024kб хранилище
+extracells.item.storage.physical.4096k.name=МЭ 4096kб хранилище
+extracells.item.storage.physical.16384k.name=МЭ 16384kб хранилище
+extracells.item.storage.physical.container.name=МЭ блок-контейнер
+extracells.item.storage.fluid.1k.name=МЭ 1Кб жидко�?тное хранилище
+extracells.item.storage.fluid.4k.name=МЭ 4Кб жидко�?тное хранилище
+extracells.item.storage.fluid.16k.name=МЭ 16Кб жидко�?тное хранилище
+extracells.item.storage.fluid.64k.name=МЭ 64Кб жидко�?тное хранилище
+extracells.item.storage.fluid.256k.name=МЭ 256Кб жидко�?тное хранилище
+extracells.item.storage.fluid.1024k.name=МЭ 1024kб жидко�?тное хранилище
+extracells.item.storage.fluid.4096k.name=МЭ 4096kб жидко�?тное хранилище
+extracells.item.storage.fluid.portable.name=МЭ перено�?ное жидко�?тное хранилище
+extracells.item.storage.gas.1k.name=МЭ 1Кб газовое хранилище
+extracells.item.storage.gas.4k.name=МЭ 4Кб газовое хранилище
+extracells.item.storage.gas.16k.name=МЭ 16Кб газовое хранилище
+extracells.item.storage.gas.64k.name=МЭ 64Кб газовое хранилище
+extracells.item.storage.gas.256k.name=МЭ 256Кб газовое хранилище
+extracells.item.storage.gas.1024k.name=МЭ 1024Кб газовое хранилище
+extracells.item.storage.gas.4096k.name=МЭ 4096Кб газовое хранилище
+extracells.item.storage.gas.portable.name=МЭ перено�?ное газовое хранилище
+extracells.item.storage.component.physical.256k.name=256Кб МЭ компонент хранилища
+extracells.item.storage.component.physical.1024k.name=1024Кб МЭ компонент хранилища
+extracells.item.storage.component.physical.4096k.name=4096Кб МЭ компонент хранилища
+extracells.item.storage.component.physical.16384k.name=16384Кб МЭ компонент хранилища
+extracells.item.storage.component.fluid.1k.name=1Кб МЭ жидко�?тный компонент хранилища
+extracells.item.storage.component.fluid.4k.name=4Кб МЭ жидко�?тный компонент хранилища
+extracells.item.storage.component.fluid.16k.name=16Кб МЭ жидко�?тный компонент хранилища
+extracells.item.storage.component.fluid.64k.name=64Кб МЭ жидко�?тный компонент хранилища
+extracells.item.storage.component.fluid.256k.name=256Кб МЭ жидко�?тный компонент хранилища
+extracells.item.storage.component.fluid.1024k.name=1024kб МЭ жидко�?тный компонент хранилища
+extracells.item.storage.component.fluid.4096k.name=4096kб МЭ жидко�?тный компонент хранилища
+extracells.item.storage.component.gas.1k.name=МЭ 1Кб газовый компонент хранилища
+extracells.item.storage.component.gas.4k.name=МЭ 4Кб газовый компонент хранилища
+extracells.item.storage.component.gas.16k.name=МЭ 16Кб газовый компонент хранилища
+extracells.item.storage.component.gas.64k.name=МЭ 64Кб газовый компонент хранилища
+extracells.item.storage.component.gas.256k.name=МЭ 256Кб газовый компонент хранилища
+extracells.item.storage.component.gas.1024k.name=МЭ 1024Кб газовый компонент хранилища
+extracells.item.storage.component.gas.4096k.name=МЭ 4096Кб газовый компонент хранилища
+extracells.item.storage.casing.physical.name=Продвинутый корпу�? хранилища
+extracells.item.storage.casing.fluid.name=Жидко�?тный корпу�? хранилища
+extracells.item.terminal.fluid.wireless.name=Бе�?проводной МЭ жидко�?тный терминал
+extracells.item.fluid.pattern=МЭ жидко�?тный шаблон
+extracells.item.oc.upgrade.name=МЭ апгрейд
+
+//Creative Tab
+itemGroup.Extra_Cells=Extra Cells
+
+//Item Groups
+extracells.fluid.IO=МЭ жидко�?тна�? шина �?к�?порта/импорта
+extracells.fluid.plane=МЭ жидко�?тна�? пло�?ко�?ть уничтожени�?/формировани�?
+
+//Parts
+extracells.part.fluid.export.name=МЭ жидко�?тна�? шина �?к�?порта
+extracells.part.fluid.import.name=МЭ жидко�?тна�? шина импорта
+extracells.part.fluid.storage.name=МЭ жидко�?тна�? шина хранени�?
+extracells.part.fluid.terminal.name=МЭ жидко�?тный терминал
+extracells.part.fluid.plane.annihilation.name=МЭ жидко�?тна�? пло�?ко�?ть уничтожени�?
+extracells.part.fluid.plane.formation.name=МЭ жидко�?тна�? пло�?ко�?ть формировани�?
+extracells.part.fluid.levelemitter.name=МЭ жидко�?тный излучатель уровн�?
+extracells.part.drive.name=Прикрепл�?ющий�?�? МЭ накопитель
+extracells.part.battery.name=Прикрепл�?ющий�?�? МЭ �?нергетиче�?ка�? �?чейка
+extracells.part.fluid.conversion.monitor.name=МЭ жидко�?тный монитор преобразовани�?
+extracells.part.fluid.monitor.name=МЭ жидко�?тный монитор хранени�?
+extracells.part.oredict.export.name=МЭ шина �?к�?порта по �?ловарю руд
+extracells.part.gas.export.name=МЭ шина �?к�?порта газа
+extracells.part.gas.import.name=МЭ шина импорта газа
+extracells.part.gas.terminal.name=МЭ терминал газа
+extracells.part.gas.storage.name=МЭ шина хранени�? газа
+extracells.part.gas.levelemitter.name=МЭ газовый излучатель уровн�?
+extracells.part.gas.conversion.monitor.name=МЭ газовый монитор преобразовани�?
+extracells.part.gas.monitor.name=МЭ газовый монитор хранени�?
+
+//Blocks
+extracells.block.certustank=Резервуар из и�?тинного кварца
+extracells.block.walrus.name=Морж
+tile.extracells.block.fluidcrafter.name=МЭ жидко�?тный �?борщик
+tile.extracells.block.fluidinterface.name=МЭ жидко�?тный интерфей�?
+tile.extracells.block.fluidfiller.name=МЭ жидко�?тный авто-заполнитель
+tile.extracells.block.vibrantchamberfluid.name=Жидко�?тна�? вибрационна�? камера
+tile.extracells.block.hardmedrive.name=Взрывоу�?тойчивый МЭ накопитель
+
+//Tooltips and Chat-Messages
+extracells.tooltip.amount=Количе�?тво
+extracells.tooltip.fluid=Жидко�?ть
+extracells.tooltip.storage.physical.types=%s из %s типов предметов и�?пользовано.
+extracells.tooltip.storage.fluid.types=%s из %s типов жидко�?тей и�?пользовано.
+extracells.tooltip.storage.physical.bytes=%s из %s байт предметов и�?пользовано.
+extracells.tooltip.storage.fluid.bytes=%s из %s байт жидко�?тей и�?пользовано.
+extracells.tooltip.storage.fluid.content=�?одержит %s мВ жидко�?ти.
+extracells.tooltip.storage.physical.content=�?одержит %s предметов(-а).
+extracells.tooltip.direction.0=�?из
+extracells.tooltip.direction.1=Верх
+extracells.tooltip.direction.2=Север
+extracells.tooltip.direction.3=Юг
+extracells.tooltip.direction.4=Запад
+extracells.tooltip.direction.5=Во�?ток
+extracells.tooltip.empty1=Пу�?то
+extracells.tooltip.storage.container.0=Режим: Режим размещени�?
+extracells.tooltip.storage.container.1=Режим: Равноценный обмен (1*1)
+extracells.tooltip.storage.container.2=Режим: Равноценный обмен (3*3)
+extracells.tooltip.onlyblocks=Вы не можете размещать предметы! Положите блок в БЛОК-контейнер
+extracells.tooltip.save=Сохранить
+extracells.tooltip.oredict=Им�? �?ловар�? руд
+extracells.tooltip.mode=Режим
+extracells.tooltip.item=Предмет
+extracells.tooltip.gas=Газ
+extracells.tooltip.essentia=Е�?�?енци�?
+extracells.tooltip.installed=У�?тановлен:
+extracells.tooltip.crafting=Создание
+extracells.tooltip.deprecated1=Этот предмет у�?тарел
+extracells.tooltip.deprecated2=Заменен %s из Applied Energistics 2
+extracells.tooltip.deprecated.part=Поме�?тите в �?етку крафта дл�? конвертации
+extracells.tooltip.deprecated.cell=Очи�?тите �?ту �?чейку, и�?пользу�? порт ввода-вывода ME, затем разбейте ее на компоненты дл�? преобразовани�?
+
+
+//Buttons
+extracells.gui.craft=Создать

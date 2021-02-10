@@ -1,0 +1,9 @@
+oreexcavation.key.excavate=Выкапывание
+oreexcavation.key.shape=Переключить/отредактировать форму (Ctrl)
+
+oreexcavation.undo.success=Отмена последнего выкапывания....
+oreexcavation.undo.failed.xp=Отмена не удалась: Невозможно возвратить опыт
+oreexcavation.undo.failed.items=Отмена не удалась: Невозможно возвратить предметы
+oreexcavation.undo.failed.obstructed=Отмена не удалась: Область чем-то заграждена
+oreexcavation.undo.failed.no_history=Отмена не удалась: Нечего отменять
+oreexcavation.undo.failed.disabled=Отмена была отключена!

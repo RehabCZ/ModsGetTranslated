@@ -1,0 +1,38 @@
+# Creative tab
+itemGroup.tabEngineersDoors=Portes d'Ingénieur
+
+# Items
+item.door_concrete.name=Porte en béton
+item.door_concrete_ornate.name=Porte en béton
+item.door_concrete_reinforced.name=Porte en béton
+item.door_steel.name=Porte en acier
+item.door_steel_ornate.name=Porte en acier
+item.door_steel_reinforced.name=Porte en acier
+item.door_treated.name=Porte en bois traité
+item.door_treated_ornate.name=Porte en bois traité
+item.door_treated_reinforced.name=Porte en bois traité
+item_variant.door.ornate=Fleurie
+item_variant.door.reinforced=Renforcée
+item.fencegate_aluminium.name=Portillon en aluminium
+item.fencegate_steel.name=Portillon en acier
+item.fencegate_treated.name=Portillon en bois traité
+item.trapdoor_concrete.name=Trappe en béton
+item.trapdoor_steel.name=Trappe en acier
+item.trapdoor_treated.name=Trappe en bois traité
+
+# Blocks
+tile.door_concrete.name=Porte en béton
+tile.door_concrete_ornate.name=Porte en béton
+tile.door_concrete_reinforced.name=Porte en béton
+tile.door_steel.name=Porte en acier
+tile.door_steel_ornate.name=Porte en acier
+tile.door_steel_reinforced.name=Porte en acier
+tile.door_treated.name=Porte en bois traité
+tile.door_treated_ornate.name=Porte en bois traité
+tile.door_treated_reinforced.name=Porte en bois traité
+tile.fencegate_aluminium.name=Portillon en aluminium
+tile.fencegate_steel.name=Portillon en acier
+tile.fencegate_treated.name=Portillon en bois traité
+tile.trapdoor_concrete.name=Trappe en béton
+tile.trapdoor_steel.name=Trappe en acier
+tile.trapdoor_treated.name=Trappe en bois traité

@@ -1,0 +1,96 @@
+smoothfont.key.guiOpen=Открыть настройки
+
+smoothfont.key.categories=Smooth Font
+
+smoothfont.config.menu.enableInterpolation=Интерполяция
+smoothfont.config.menu.blurReduction=Уменьшение размытости
+smoothfont.config.menu.brightness=Яркость
+smoothfont.config.menu.shadowLength=Длина тени
+smoothfont.config.menu.excludeIntMultiple=Исключить кратные
+smoothfont.config.menu.limitMagnification=Ограничение масштаба
+smoothfont.config.menu.font=Шрифт...
+smoothfont.config.menu.advancedOptions=Расширенные настройки...
+smoothfont.config.menu.default=Установить по умолчанию
+smoothfont.config.menu.default.yesno.global=Все настройки Глобальной конфигурации будут установлены по умолчанию.
+smoothfont.config.menu.default.yesno.player=Все настройки Конфигурации игрока будут установлены в значения Глобальной конфигурации.
+smoothfont.config.menu.exit=Готово
+smoothfont.config.menu.playerConfig=Конфиг. игрока
+smoothfont.config.menu.globalConfig=Глоб. конфиг.
+
+smoothfont.config.menu.title.advanced=Smooth Font [Расширенные настройки]
+smoothfont.config.menu.enableAlphaBlend=Полупрозрачность
+smoothfont.config.menu.allowNPOTTexture=Использовать NPOT текстуры
+smoothfont.config.menu.enableMipmap=Mipmap
+smoothfont.config.menu.enableAnisotropicFilter=Анизотропная фильтрация
+smoothfont.config.menu.mipmapLodBias=Mipmap LOD Bias
+smoothfont.config.menu.overlayLodBias=Overlay LOD Bias
+smoothfont.config.menu.forceUnicode=Использовать Юникод
+smoothfont.config.menu.removeScaleRestriction=Вкл. крупный GUI
+smoothfont.config.menu.alternativeInterpolation=Использовать LERP
+smoothfont.config.menu.done=Готово
+
+smoothfont.config.font.title=Выбор шрифта
+smoothfont.config.font.fontFilter=Поиск
+smoothfont.config.font.sizeAdjustField=Пример авторазмера
+smoothfont.config.font.antiAlias=Сглаживание
+smoothfont.config.font.antiAlias.0=OFF
+smoothfont.config.font.antiAlias.1=Обычное
+smoothfont.config.font.antiAlias.2=Выс. точность
+smoothfont.config.font.doubleRendering=Приоритет
+smoothfont.config.font.doubleRendering.0=OFF
+smoothfont.config.font.doubleRendering.1=Только ASCII
+smoothfont.config.font.doubleRendering.2=Не ASCII
+smoothfont.config.font.doubleRendering.3=Все
+smoothfont.config.font.fontRes=Разрешение
+smoothfont.config.font.autoSizing.auto=Авторазмер
+smoothfont.config.font.autoSizing.fixed=Фикс. размер
+smoothfont.config.font.fontSize=Размер
+smoothfont.config.font.fontGap=Интервал
+smoothfont.config.font.fontGap.normal=Обычный
+smoothfont.config.font.fontDetailList.on=Полный
+smoothfont.config.font.fontDetailList.off=Простой
+smoothfont.config.font.size.normal=Обычный
+smoothfont.config.font.alignBaseline.on=Выравнивание: Баз. линия
+smoothfont.config.font.alignBaseline.off=Выравниваение: Низ
+smoothfont.config.font.apply=Применить
+smoothfont.config.font.finish=Готово
+
+smoothfont.config.ON=ON
+smoothfont.config.OFF=OFF
+smoothfont.config.auto=Авто
+smoothfont.config.unlimited=Неограниченно
+smoothfont.config.default=По умолчанию
+
+smoothfont.msg.transformingFailed=Не удалось выполнить преобразование. Возможно из-за конфликта.
+smoothfont.msg.notWorking=Мод работает неправильно. Возможно из-за конфликта.
+smoothfont.msg.detectFastCraft=Обнаружен FastCraft. Пожалуйста, установите параметр enableFontRendererTweaks=false в fastcraft.ini.
+
+smoothfont.tooltip.enableInterpolation=Линейная интерполяция\nПрименяет линейную интерполяцию к символам.
+smoothfont.tooltip.blurReduction=Уменьшение размытости\nПрименяет уменьшение размытия к интерполированным символам ниже указанного разрешения.
+smoothfont.tooltip.brightness=Яркость\nЯркость интерполированных символов. "Авто" регулирует яркость текущего шрифта автоматически.
+smoothfont.tooltip.excludeIntMultiple=Исключить кратные\nСимволы кратные стандартному размеру не изменяются.
+smoothfont.tooltip.limitMagnification=Ограничение масштаба\nЭффект не будет применён к символам выше указанного масштаба.
+smoothfont.tooltip.setToDefault=Установить по умолчанию\nНастройки будут сброшены на значения по умолчанию, кроме параметров, которые невозможно установить в графическом интерфейсе. В режиме "Конфигурация игрока" настройки будут установлены на значения "Глобальной конфигурация".
+smoothfont.tooltip.configSelection=Выбор конфигурации\nПереключение между Глобальной конфигурацией и Конфигурацией игрока. Глобальная конфигурация сохраняет настройки в общий файл конфигурации. "Конфигурация игрока" сохраняет пользовательские настройки в отдельном файле конфигурации для текущего игрока.
+
+smoothfont.tooltip.enableAlphaBlend=Полупрозрачность\nВключает полупрозрачность для сглаживания шрифтов.
+smoothfont.tooltip.allowNPOTTexture=Использовать NPOT текстуры\nДелает возможным использование текстур, не являющимися степени двойки. Загрузка текстур может стать быстрее. На некоторых графических процессорах могут возникать проблемы с использованием NPOT текстур.
+smoothfont.tooltip.enableMipmap=Mipmap\nВключает mipmap. Улучшает читаемость мелких символов.
+smoothfont.tooltip.enableAnisotropicFilter=Анизотропная фильтрация\nВключает анизотропную фильтрацию. Улучшает читаемость символов при наклонных углах обзора.
+smoothfont.tooltip.mipmapLodBias=Mipmap LOD Bias\nРегулирует эффективность mipmap для мелких символов. При отрицательном значении символы отображаются более чётко, но могут быть сколотыми и мерцающими. Чем значение ближе к нулю, тем выше качество масштабирования и меньше сколотости и мерцания, но больше размытости.
+smoothfont.tooltip.overlayLodBias=Overlay LOD Bias\nЭто настройка для символов оверлейного экрана. Регулирует эффективность mipmap для мелких символов. При отрицательном значении символы отображаются более чётко. Чем значение ближе к нулю, тем выше качество масштабирования.
+smoothfont.tooltip.forceUnicode=Использовать Unicode\nЗаставляет все символы отображаться в шрифте Unicode. Если вы хотите вернуть в исходное состояние, нужно выключить опцию и перезапустить Minecraft.
+smoothfont.tooltip.removeScaleRestriction=Разблокировать крупный интерфейс\nПозволяет использовать крупный интерфейс при включённом шрифте Unicode.
+smoothfont.tooltip.alternativeInterpolation=Использовать Линейную интерполяцию\nЭкспериментальная настройка. Принудительно использует линейную интерполяцию для символов юникода. Исходный рендеринг шрифтов мода также может быть затронут, но шрифт не изменится.
+
+smoothfont.tooltip.font.sizeAdjustField=Пример авторазмера\nОпция полезна, когда некоторые символы, имеющие большой размер, отображаются некорректно. При включённом "авторазмере", размер шрифта скорректирован так, чтобы символ, введенный здесь, мог быть отображён. Можно вписать несколько символов.
+smoothfont.tooltip.font.fontNameList=Список шрифтов\nВы можете выбрать шрифт. §eЖелтым§7 цветом выделен вторичный шрифт. Вторичный шрифт используется для символов, которых нет в основном шрифте. Вы можете выбрать вторичный шрифт двойным кликом.
+smoothfont.tooltip.font.fontDetailList=Список шрифтов\n§fПростой§7: Список семейств шрифтов\n§fПолный§7: Список всех шрифтов
+smoothfont.tooltip.font.fontNameFilter=Фильтр шрифтов
+smoothfont.tooltip.font.fontRes=Разрешение символов\nВыберите разрешение текстуры символов. Чем выше разрешение, тем больше памяти и VRAM будут потребляться. Звездочкой "*" обозначено рекомендуемое значение для текущего размера GUI.
+smoothfont.tooltip.font.fontSize=Отображаемый размер\nРегулирует отображаемый размер символов.
+smoothfont.tooltip.font.fontGap=Интервал\nРегулирует расстояние между символами.
+smoothfont.tooltip.font.antiAlias=Сглаживание\nДелает шрифт сглаженным.\n§fОбычное§7: Отображение с округлением до пикселей.\n§fВысокая точность§7: Отображение без округления до пикселей.
+smoothfont.tooltip.font.doubleRendering=Приоритет\n§fТолько ASCII§7: Только ASCII символы.\n§fНе ASCII§7: Не ASCII символы.\n§fВсе§7: Все символы.
+smoothfont.tooltip.font.fontAutoSizing=Авторазмер / Фиксированный размер\n§fАвто§7: Автоматически устанавливает размер шрифта.\n§fФиксированный§7: Разршение = Размер шрифта.\nРекомендуется использовать "§fАвто§7". "§fФиксированный§7" удобен при использовани растровых шрифтов на 8 или 12 точек при низком разрешении.
+smoothfont.tooltip.font.fontAlignBaseline=Выравнивание по базовой линии / Выравнивание по низу\nУстанавливает позицию для вертикального выравнивание.\n§fБазовая линия§7: Выравнивает шрифт по базовой линии\n§fНиз§7: Выравнивает символы по низу\nРекомендуется использовать выравнивание по "§fБазовой линии§7". Если вертикальное положение между символами смещено, попробуйте использовать выравнивание по "§fнизу§7".

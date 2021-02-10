@@ -1,0 +1,105 @@
+#es_ES
+
+achievement.thermalexpansion.florb.desc=Contiene un Liquido. Usted puede tirarlo.
+achievement.thermalexpansion.florb=Puedo tirar esto?!
+achievement.thermalexpansion.florbMagmatic.desc=Florb. Si, puede contener Lava. Monstruo.
+achievement.thermalexpansion.florbMagmatic=Mira el mundo arder
+
+info.thermalexpansion.augment.dynamoCoilDuct.0=Permite la insecion y la extracion a través de la bobina de el Dinamo.
+
+info.thermalexpansion.augment.dynamoThrottle.0=Activa la salida minima del dynamo a 0 RF/t.
+
+info.thermalexpansion.augment.machineFurnaceFood.0=Incrementa la salida de Comida.
+
+info.thermalexpansion.dynamo.compression=Require cobustibles en estado liquido y refrigerantes liquidos.
+info.thermalexpansion.dynamo.enervation=Extrae el flux de objetos varios.
+info.thermalexpansion.dynamo.magmatic=Require fluidos calientes.
+info.thermalexpansion.dynamo.reactant=Require combustibles en estado liquido y reactantes solidos.
+info.thermalexpansion.dynamo.steam=Requiere agua y cobustible solidos.
+
+info.thermalexpansion.machine.charger=Recarga objetos recargables con RF.
+info.thermalexpansion.machine.crucible=Derrite objetos en fluidos.
+info.thermalexpansion.machine.extruder=Mezcla fluidos calientes y frios.
+info.thermalexpansion.machine.furnace=Funde objetos.
+info.thermalexpansion.machine.insolator=Infunde plantas con 'sol' y RF.
+info.thermalexpansion.machine.precipitator=Conjela fluidos en objetos en estado solido.
+info.thermalexpansion.machine.pulverizer=Tritura objetos.
+info.thermalexpansion.machine.sawmill=Proporciona madera adicional.
+info.thermalexpansion.machine.smelter=Funde aleaciones y metales. Dos entradas.
+info.thermalexpansion.machine.transposer=Manipula fluidos y contenedores de fluidos.
+
+item.thermalexpansion.augment.dynamoCoilDuct.name=Transmision de los Conductos de la Bobina
+item.thermalexpansion.augment.dynamoThrottle.name=Excitacion del Campo Limite
+
+item.thermalexpansion.augment.machineFurnaceFood.name=Camara de Triveccion
+
+item.thermalexpansion.florb.standard.name=Florb
+item.thermalexpansion.florb.magmatic.name=Florb Magmatica
+
+itemGroup.thermalexpansion.creativeTab=Thermal Expansion
+itemGroup.thermalexpansion.creativeTabFlorbs=Thermal Expansion: Florbs
+itemGroup.thermalexpansion.creativeTabItems=Thermal Expansion: Objetos
+
+tab.thermalexpansion.device.nullifier.0=Envia todos tus objetos a /dev/null!
+tab.thermalexpansion.device.nullifier.1=Es un lugar horrible; incluso los fluidos no pueden escapar.
+
+tab.thermalexpansion.dynamo.0=La velocidad de generacion varia en funcion de la demanda de energia.
+tab.thermalexpansion.dynamo.compression.0=Genera Redstone Flux usando combustibles liquidos y refrigerantes.
+tab.thermalexpansion.dynamo.enervation.0=Extrae Redstone Flux directamente de recursos naturales o de objetos que almacenan esos recursos.
+tab.thermalexpansion.dynamo.magmatic.0=Genera Redstone Flux usando fluidos extremadamente calientes.
+tab.thermalexpansion.dynamo.reactant.0=Genera Redstone Flux usando reacciones quimicas.
+tab.thermalexpansion.dynamo.reactant.1=Un reactante solido y un combustible liquido deve ser provisto.
+tab.thermalexpansion.dynamo.steam.0=Genera Redstone Flux usando Vapor.
+tab.thermalexpansion.dynamo.steam.1=Combustibles Solidos y Agua pueden ser usados para generar Vapor.
+
+tab.thermalexpansion.machine.charger.0=Infunde energia en objetos recargables.
+tab.thermalexpansion.machine.charger.1=La velocidad de la recarga puede ser limitada por el objeto.
+tab.thermalexpansion.machine.charger.2=Alimenta el hum.
+tab.thermalexpansion.machine.crucible.0=Convierte materiales solidos en fluidos!
+tab.thermalexpansion.machine.crucible.1=Muy util para construir dispositivos avanzados.
+tab.thermalexpansion.machine.crucible.2=Mantener alejado niños pequeños y mascotas.
+tab.thermalexpansion.machine.extruder.0=Mezcla agua y lava para crear diferentes tipos de rocas igneas.
+tab.thermalexpansion.machine.extruder.1=El objeto seleccionado es lo que vas a obtener, si es que hay suficiente agua y lava en los tanques.
+tab.thermalexpansion.machine.extruder.2=Las fisicas de Minecraft son divertidas!
+tab.thermalexpansion.machine.furnace.0=Funde cosas usando Redstone Flux.
+tab.thermalexpansion.machine.furnace.1=Usa un poco de energia para cocinar comida.
+tab.thermalexpansion.machine.furnace.2=Om nom nom.
+tab.thermalexpansion.machine.insolator.0=Infunde nutrientes y luz en plantas usando Redstone Flux.
+tab.thermalexpansion.machine.insolator.1=No es exactamente 'organico'
+tab.thermalexpansion.machine.insolator.2=La ranura izquierda puede ser cerrada para que contenga ciertos objetos.
+tab.thermalexpansion.machine.insolator.3=Gloriosamente incandescente!
+tab.thermalexpansion.machine.precipitator.0=Usa Redstone Flux para conjelar fluidos varios!
+tab.thermalexpansion.machine.precipitator.1=El objeto seleccionado es lo que vas a obtener, si es que hay suficiente fluido en el tanque.
+tab.thermalexpansion.machine.precipitator.2=Hora de una pelea con Bolas de Nieve.
+tab.thermalexpansion.machine.pulverizer.0=Rompe cosas en otras cosas.
+tab.thermalexpansion.machine.pulverizer.1=Util para procesar menas.
+tab.thermalexpansion.machine.pulverizer.2=Cientificamente no es reversible.
+tab.thermalexpansion.machine.sawmill.0=Corta troncos en Madera y reprocesa cosas hachas con madera.
+tab.thermalexpansion.machine.sawmill.1=Muy util para hacer el maximo provecho de un arbol.
+tab.thermalexpansion.machine.sawmill.2=Mira tus manos.
+tab.thermalexpansion.machine.smelter.0=Fundir metales y cosas requiere altas temperaturas.
+tab.thermalexpansion.machine.smelter.1=Util para procesar ores y para construir dispositivos avanzados.
+tab.thermalexpansion.machine.smelter.2=La ranura izquierda puede ser cerrada para que contenga ciertos objetos.
+tab.thermalexpansion.machine.smelter.3=Absolutamente no cocina comida.
+tab.thermalexpansion.machine.transposer.0=Rellena o vacia cosas que pueden contener fluidos.
+tab.thermalexpansion.machine.transposer.1=Dale click al boton para cambiar los modos Rellenar y Vaciar.
+tab.thermalexpansion.machine.transposer.2=Cientificamente reversible.
+
+tile.thermalexpansion.device.nullifier.name=Nullificador
+
+tile.thermalexpansion.dynamo.compression.name=Dinamo de Compresion
+tile.thermalexpansion.dynamo.enervation.name=Dinamo de Enervacion
+tile.thermalexpansion.dynamo.magmatic.name=Dinamo Magmatico
+tile.thermalexpansion.dynamo.reactant.name=Dinamo Reactante
+tile.thermalexpansion.dynamo.steam.name=Dinamo de Vapor
+
+tile.thermalexpansion.machine.charger.name=Infusor Energetico
+tile.thermalexpansion.machine.crucible.name=Crisol Magmatico
+tile.thermalexpansion.machine.extruder.name=Extrusora Ignea
+tile.thermalexpansion.machine.furnace.name=Horno de Redstone
+tile.thermalexpansion.machine.insolator.name=Aislante Phytogenico
+tile.thermalexpansion.machine.precipitator.name=Precipitador Glacial
+tile.thermalexpansion.machine.pulverizer.name=Pulverizador
+tile.thermalexpansion.machine.sawmill.name=Aserradero
+tile.thermalexpansion.machine.smelter.name=Horno de Induccion
+tile.thermalexpansion.machine.transposer.name=Reemisor de Fluidos

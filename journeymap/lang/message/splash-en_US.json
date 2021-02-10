@@ -1,0 +1,34 @@
+/* JourneyMap 5.5.0 Splash/About Dialog - en_US */
+/* Only translate label values. Do not translate action values. */
+{
+  "lines": [
+    {
+      "label": "Brand new Webmap!",
+      "action": "dialog.OptionsManager#Webmap"
+    },
+    {
+      "label": "New Server Admin screen in the JourneyMap Options screen, for ops/admins and single-player.",
+      "action": "serveroption.ServerOptionsManager"
+    },
+    {
+      "label": "InfoSlot time formats are now configurable!",
+      "action": "dialog.OptionsManager#MiniMap1"
+    },
+    {
+      "label": "Configure Death Waypoint label and auto-removal",
+      "action": "dialog.OptionsManager#Waypoint"
+    },
+    {
+      "label": "Time and Date formatting for death waypoints!",
+      "action": "dialog.OptionsManager#Waypoint"
+    },
+    {
+      "label": "Fullscreen button to pan to specified coordinates.",
+      "action": "dialog.FullscreenActions#open"
+    },
+    {
+      "label": "JourneyMap has a public Discord!",
+      "action": "dialog.FullscreenActions#discord"
+    }
+  ]
+}

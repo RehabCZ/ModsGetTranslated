@@ -1,0 +1,37 @@
+item.recipe_maker.name=Redipe Maker
+
+gui.recipe_maker.mc.crafting_table=Crafting Table Redipe
+gui.recipe_maker.mc.furnace=Furnace Recipe
+
+gui.recipe_maker.ec.iron_table=Iron Table Recipe
+gui.recipe_maker.ec.gold_table=Gold Table Recipe
+gui.recipe_maker.ec.diamond_table=Diamond Table Recipe
+gui.recipe_maker.ec.emerald_table=Emerald Table Recipe
+gui.recipe_maker.ec.ender_crafter=Ender Crafting Recipe
+gui.recipe_maker.ec.compressor=Compression Recipe
+gui.recipe_maker.ec.crafting_core=Combination Crafting Recipe
+
+btn.basic_mode=Basic Mode
+btn.advanced_mode=Advanced Mode
+btn.generate=Generate
+btn.copy=Copy
+btn.advanced_item_setting.edit_nbt=Edit
+
+msg.open_recipemakergui_fail=Fail to create recipe for this block.
+msg.generate_fail=§cFail to generate script.
+msg.generate_success.copy=§aThe generated command has been copied to your clipboard.
+msg.generate_success.to_file=§aSuccessfully export the generated command to default Tweaker GUI script.
+
+txt.unfinished_function=Not available yet XD
+txt.fuel_burning_time=↑Burning Time
+txt.furnace_xp=xp:
+txt.advanced_item_setting.any_meta=Any Meta
+txt.advanced_item_setting.any_damage=Any Damage
+txt.advanced_item_setting.use_damage=Use Damage
+txt.advanced_item_setting.use_nbt=Use NBT
+txt.advanced_item_setting.give_back_item=GiveBack:
+txt.advanced_item_setting.replace_item=Replace:
+txt.advanced_item_setting.min=min
+txt.advanced_item_setting.max=max
+txt.advanced_item_setting.transform_damage=TransformDamage
+txt.advanced_item_setting.use_ore_dict=use od

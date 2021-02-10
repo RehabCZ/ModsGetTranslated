@@ -1,0 +1,89 @@
+//**********//
+//EXTRACELLS//
+//**********//
+
+//Items
+extracells.item.storage.physical.256k.name=ME 256k儲存器
+extracells.item.storage.physical.1024k.name=ME 1024k儲存器
+extracells.item.storage.physical.4096k.name=ME 4096k儲存器
+extracells.item.storage.physical.16384k.name=ME 16384k儲存器
+extracells.item.storage.physical.container.name=ME方塊容器
+extracells.item.storage.fluid.1k.name=ME 1k�?體儲存器
+extracells.item.storage.fluid.4k.name=ME 4k�?體儲存器
+extracells.item.storage.fluid.16k.name=ME 16k�?體儲存器
+extracells.item.storage.fluid.64k.name=ME 64k�?體儲存器
+extracells.item.storage.fluid.256k.name=ME 256k�?體儲存器
+extracells.item.storage.fluid.1024k.name=ME 1024k�?體儲存器
+extracells.item.storage.fluid.4096k.name=ME 4096k�?體儲存器
+extracells.item.storage.fluid.portable.name=ME�?�攜�?體儲存器
+extracells.item.storage.component.physical.256k.name=256k ME儲存元件
+extracells.item.storage.component.physical.1024k.name=1024k ME儲存元件
+extracells.item.storage.component.physical.4096k.name=4096k ME儲存元件
+extracells.item.storage.component.physical.16384k.name=16384k ME儲存元件
+extracells.item.storage.component.fluid.1k.name=1k ME�?體儲存元件
+extracells.item.storage.component.fluid.4k.name=4k ME�?體儲存元件
+extracells.item.storage.component.fluid.16k.name=16k ME�?體儲存元件
+extracells.item.storage.component.fluid.64k.name=64k ME�?體儲存元件
+extracells.item.storage.component.fluid.256k.name=256k ME�?體儲存元件
+extracells.item.storage.component.fluid.1024k.name=1024k ME�?體儲存元件
+extracells.item.storage.component.fluid.4096k.name=4096k ME�?體儲存元件
+extracells.item.storage.casing.physical.name=高級儲存外殼
+extracells.item.storage.casing.fluid.name=�?體儲存外殼
+extracells.item.terminal.fluid.wireless.name=無線ME�?體終端
+extracells.item.fluid.pattern=ME�?體模�?�
+
+//Creative Tab
+itemGroup.Extra_Cells=更多儲存元件2
+
+//Item Groups
+extracells.fluid.IO=ME�?體輸出/輸入匯�?排
+extracells.fluid.plane=ME�?體�?型/破壞�?��?�
+
+//Parts
+extracells.part.fluid.export.name=ME�?體輸出匯�?排
+extracells.part.fluid.import.name=ME�?體輸入匯�?排
+extracells.part.fluid.storage.name=ME�?體儲存匯�?排
+extracells.part.fluid.terminal.name=ME�?體終端
+extracells.part.fluid.plane.annihilation.name=ME�?體破壞�?��?�
+extracells.part.fluid.plane.formation.name=ME�?體�?型�?��?�
+extracells.part.fluid.levelemitter.name=ME�?體發信器
+extracells.part.drive.name=ME驅動固定器
+extracells.part.battery.name=ME能�?元件固定器
+extracells.part.fluid.conversion.monitor.name=ME�?體交�?�顯示器
+extracells.part.fluid.monitor.name=ME�?體儲存顯示器
+extracells.part.oredict.export.name=ME礦物表輸出匯�?排
+
+//Blocks
+extracells.block.certustank=賽特斯石英水槽
+extracells.block.walrus.name=海象
+tile.extracells.block.fluidcrafter.name=ME�?體�?�?室
+tile.extracells.block.fluidinterface.name=ME�?體介�?�
+tile.extracells.block.fluidfiller.name=ME�?體自動�?�濾器
+tile.extracells.block.vibrantchamberfluid.name=�?體諧振倉
+tile.extracells.block.hardmedrive.name=防爆ME驅動器
+
+//Tooltips and Chat-Messages
+extracells.tooltip.amount=總�?
+extracells.tooltip.fluid=�?體
+extracells.tooltip.storage.physical.types=%s/%s個物�?類型已使用。
+extracells.tooltip.storage.fluid.types=%s/%s個�?體類型已使用。
+extracells.tooltip.storage.physical.bytes=%s/%s物�?�?元組已使用。
+extracells.tooltip.storage.fluid.bytes=%s/%s�?體�?元組已使用。
+extracells.tooltip.storage.fluid.content=存有%smB桶�?體。
+extracells.tooltip.storage.physical.content=存有%s個物�?。
+extracells.tooltip.direction.0=下
+extracells.tooltip.direction.1=上
+extracells.tooltip.direction.2=北
+extracells.tooltip.direction.3=�?�
+extracells.tooltip.direction.4=西
+extracells.tooltip.direction.5=�?�
+extracells.tooltip.empty1=空
+extracells.tooltip.storage.container.0=模�?:放置模�?
+extracells.tooltip.storage.container.1=模�?:替�?�模�? (1*1)
+extracells.tooltip.storage.container.2=模�?:替�?�模�? (3*3)
+extracells.tooltip.onlyblocks=你�?能放置物�?! 請在§4方塊§r容器中放入方塊
+extracells.tooltip.save=�?存
+extracells.tooltip.oredict=礦物表�??
+
+//Buttons
+extracells.gui.craft=�?��?

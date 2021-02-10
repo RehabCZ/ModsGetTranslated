@@ -1,0 +1,105 @@
+smoothfont.key.guiOpen=打開設置面板
+
+smoothfont.key.categories=Smooth Font
+
+smoothfont.config.menu.enableInterpolation=插值
+smoothfont.config.menu.blurReduction=銳化
+smoothfont.config.menu.brightness=亮度
+smoothfont.config.menu.shadowLength=陰影長度
+smoothfont.config.menu.excludeIntMultiple=排除整數倍
+smoothfont.config.menu.limitMagnification=限制放大效果
+smoothfont.config.menu.font=字型選擇...
+smoothfont.config.menu.advancedOptions=高級選項...
+smoothfont.config.menu.default=重置
+smoothfont.config.menu.default.yesno.global=所有全域配置會被還原為預設
+smoothfont.config.menu.default.yesno.player=所有個人配置會被還原為全域配置
+smoothfont.config.menu.exit=返回遊戲
+smoothfont.config.menu.playerConfig=個人配置
+smoothfont.config.menu.globalConfig=全域配置
+
+smoothfont.config.menu.title.advanced=Smooth Font [高級選項]
+smoothfont.config.menu.enableAlphaBlend=Alpha混合
+smoothfont.config.menu.allowNPOTTexture=使用NPOT紋理
+smoothfont.config.menu.enableMipmap=Mipmap
+smoothfont.config.menu.enableAnisotropicFilter=各向異性過濾
+smoothfont.config.menu.mipmapLodBias=Mipmap LOD Bias
+smoothfont.config.menu.overlayLodBias=Overlay LOD Bias
+smoothfont.config.menu.forceUnicode=強制Unicode
+smoothfont.config.menu.removeScaleRestriction=GUI解除比例限制
+smoothfont.config.menu.alternativeInterpolation=強制LERP(線性插值)
+smoothfont.config.menu.done=完成
+
+smoothfont.config.font.title=選擇字型
+smoothfont.config.font.fontFilter=搜索
+smoothfont.config.font.sizeAdjustField=自動調整示例文字大小
+smoothfont.config.font.antiAlias=抗鋸齒
+smoothfont.config.font.antiAlias.0=關閉
+smoothfont.config.font.antiAlias.1=中等
+smoothfont.config.font.antiAlias.2=高精度
+smoothfont.config.font.doubleRendering=加粗
+smoothfont.config.font.doubleRendering.0=關閉
+smoothfont.config.font.doubleRendering.1=僅限ASCII
+smoothfont.config.font.doubleRendering.2=ASCII除外
+smoothfont.config.font.doubleRendering.3=所有
+smoothfont.config.font.fontRes=解析度
+smoothfont.config.font.autoSizing.auto=自動調整大小
+smoothfont.config.font.autoSizing.fixed=固定大小
+smoothfont.config.font.fontSize=字型大小
+smoothfont.config.font.fontGap=字型間距
+smoothfont.config.font.fontGap.normal=一般
+smoothfont.config.font.fontDetailList.on=詳細
+smoothfont.config.font.fontDetailList.off=簡略
+smoothfont.config.font.size.normal=一般
+smoothfont.config.font.alignBaseline.on=基準線對齊
+smoothfont.config.font.alignBaseline.off=底部邊緣對齊
+smoothfont.config.font.spaceWidth=間隔寬度
+smoothfont.config.font.spaceWidth.normal=標準
+smoothfont.config.font.targetToReplace=替換對象
+smoothfont.config.font.targetToReplace.0=標準
+smoothfont.config.font.targetToReplace.1=全部
+smoothfont.config.font.apply=套用
+smoothfont.config.font.finish=完成
+smoothfont.config.font.memUsage=記憶體使用量
+
+smoothfont.config.ON=開啟
+smoothfont.config.OFF=關閉
+smoothfont.config.auto=自動
+smoothfont.config.unlimited=無限制
+smoothfont.config.default=預設
+
+smoothfont.msg.transformingFailed=轉換失敗，可能有衝突。
+smoothfont.msg.notWorking=模組無法正常工作，可能有衝突。
+smoothfont.msg.detectFastCraft=探測到 Fastcraft，請在 fastcraft.ini 中把 enableFontRendererTweaks 改為 false。
+
+smoothfont.tooltip.enableInterpolation=線性插值\n在縮放時使用線性插值過濾。
+smoothfont.tooltip.blurReduction=銳化\n對指定解析度以下的文字進行線性模糊。
+smoothfont.tooltip.brightness=亮度\n調整文字的亮度，如果設置為｢自動｣，則亮度會根據目前字型自動調整。
+smoothfont.tooltip.excludeIntMultiple=排除整數倍\n整數倍的字型將不生效。例如64乘以64大小的，能被整除的就不會生效。
+smoothfont.tooltip.limitMagnification=限制放大效果\n這個效果將不會用於指定放大倍數以上的字元。
+smoothfont.tooltip.setToDefault=重置\n除了不能被套用的設定值以外，所有的設定會被還原為預設值。如果是在個人配置的模式下，會被還原為全域配置。
+smoothfont.tooltip.configSelection=配置檔選擇\n在全域配置與個人配置間切換。 全域配置的設定檔儲存方式與普通模組的設定檔儲存資料夾位置相同。若使用個人配置，會將一些用戶的選項保存到該使用者的設定檔中。
+
+smoothfont.tooltip.enableAlphaBlend=不透明度混合\n使用不透明度混合(Alpha Blending)來讓字型看起來更平滑。
+smoothfont.tooltip.allowNPOTTexture=使用NPOT紋理\n非二冪的材質(Non-Power-Of-Two Textures)，材質讀取速度可能會更快，但某些圖形處理器使用NPOT材質可能會有繪製問題。
+smoothfont.tooltip.enableMipmap=Mipmap\n啟用Mipmap，這將會提高小字型的可讀性。
+smoothfont.tooltip.enableAnisotropicFilter=各向異性過濾\n啟用各向異性過濾，提高文字在視角斜向時觀看的可讀性。
+smoothfont.tooltip.mipmapLodBias=Mipmap LOD Bias\n針對縮小的文字調整 Mipmap 效果，在負值時文字會比較清晰，但文字可能會撕裂或閃爍。越接近於0，品質越高，撕裂和閃爍越少，但看起來會有點模糊。
+smoothfont.tooltip.overlayLodBias=Overlay LOD Bias\n這個設定是用來覆蓋螢幕上文字的設定。針對縮小的文字來調整Mipmap效果，在負值時文字會比較清晰。越接近於0，品質越高。
+smoothfont.tooltip.forceUnicode=強制使用萬國碼\n強制所有文字使用萬國碼(Unicode)。如果想要完全恢復到原始狀態，你必須重開遊戲。
+smoothfont.tooltip.removeScaleRestriction=解鎖GUI比例限制\n當使用萬國碼(Unicode)時，啟用"大"的大小的GUI 。
+smoothfont.tooltip.alternativeInterpolation=強制線性插值\n這是個實驗性的選項。強制線性插值到 Unicode 字型紋理，原始的字型繪製可能會生效，但是字型並不會改變。
+
+smoothfont.tooltip.font.sizeAdjustField=自動調整文字大小\n當某些文字過大且無法正常繪製時，這個選項很有用。當特定字型的上、下、左和右被斷開時，字體大小會自動調整以便繪製所有在此輸入的字元，可指定到多個字元。
+smoothfont.tooltip.font.fontNameList=字型列表\n你可以在這選擇字型 §e黃色§7 這是輔助字型。 輔助字型可以用來代替在主字型不能被正確顯示的時候。雙擊選取輔助字型。
+smoothfont.tooltip.font.fontDetailList=字型列表模式\n§f常規§7: 按字型名稱排列\n§f詳細§7: 排列所有字型
+smoothfont.tooltip.font.fontNameFilter=字型名字過濾
+smoothfont.tooltip.font.fontRes=文字解析度\n選擇文字紋理的解析度。越高的解析度，內存和顯存使用得會更多，用｢*｣標記的表示為當前GUI大小推薦的解析度。
+smoothfont.tooltip.font.fontSize=文字顯示的大小\n調整文字顯示的大小。
+smoothfont.tooltip.font.fontGap=文字的間距\n設定文字與文字之間的間距大小。
+smoothfont.tooltip.font.antiAlias=抗鋸齒\n文字繪製更加平滑。\n§f中等§7: 使用圓形繪製。\n§f高精度§7: 使用非圓形繪製。
+smoothfont.tooltip.font.doubleRendering=加粗\n加粗字型\n§f僅ASCII§7: 僅加粗ASCII字元。\n§f除ASCII以外§7: 加粗除了ASCII以外的字元。\n§f所有§7: 加粗所有字元。
+smoothfont.tooltip.font.fontAutoSizing=自動調整文字大小&固定大小\n這是一種檢測指定解析度下選出合適的文字大小的方法\n§f自動§7: 自動調整到合適的字型大小\n§f固定大小§7: 解析度=字型大小\n通常來說"§f自動§7"是推薦使用的。"§f固定大小§7"對於在低解析度時使用8/12的點陣字型，會更加方便。
+smoothfont.tooltip.font.fontAlignBaseline=基線(baseline)對齊/底部邊緣(Box-Bottom)對齊\n選擇豎直對齊時的參考位置\n§f基準線§7: 對齊字型的基準線\n§f底部邊緣§7: 對齊文字底部的邊緣\n通常來說"§f基準線§7"是推薦使用的。如果字型高低不齊，那麼就嘗試使用"§f底部邊緣§7"。
+smoothfont.tooltip.font.spaceWidth=空格寬度\n選擇空格寬動。\n§f自動§7: 使用字型預設空白寬度\n"4" 是遊戲預設寬度。
+smoothfont.tooltip.font.targetToReplace=替換對象\n設置字體替換目標。\n§f標準§7: 只有遊戲標準字型與萬國碼字型會被替換\n§f全部§7: 所有的字型，包含其他模組指定使用的字型都將會被替換。
+smoothfont.tooltip.font.memUsage=記憶體使用量\n所有正在使用字形的圖像記憶體總使用總量。

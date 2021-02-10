@@ -1,0 +1,88 @@
+#nl_NL
+
+achievement.thermalexpansion.florb.desc=Bevat een vloeistof. Je kan het gooien.
+achievement.thermalexpansion.florb=Ik kan dit gooien?!
+achievement.thermalexpansion.florbMagmatic.desc=Florb. Ja, het bevat lava. Jij monster.
+achievement.thermalexpansion.florbMagmatic=Zie de Wereld Branden
+
+info.thermalexpansion.augment.dynamoCoilDuct.0=Staat invoer en uitvoer van items en vloeistoffen toe door de spoel van een dynamo.
+
+info.thermalexpansion.augment.dynamoThrottle.0=Verbeter de schakeling van een dynamo zodat de energie outvoer kan worden verlaagt naar 0 RF/t.
+
+info.thermalexpansion.dynamo.compression=Vereist vloeibare brandstof end koelvloeistof.
+info.thermalexpansion.dynamo.enervation=Ontrekt flux vanuit diverse objecten.
+info.thermalexpansion.dynamo.magmatic=Vereist hete vloeistoffen.
+info.thermalexpansion.dynamo.reactant=Vereist vloeibare brandstof en vaste reagent.
+info.thermalexpansion.dynamo.steam=Vereist water en vaste brandstof.
+
+info.thermalexpansion.machine.charger=Laad items op met RF.
+info.thermalexpansion.machine.crucible=Smelt items tot vloeistoffen.
+info.thermalexpansion.machine.extruder=Mixt hete en koude vloeistoffen.
+info.thermalexpansion.machine.furnace=Smelt items.
+info.thermalexpansion.machine.insolator=Doordrenkt planten met 'zon' en RF.
+info.thermalexpansion.machine.precipitator=Bevriest vloeistoffen tot vaste stoffen.
+info.thermalexpansion.machine.pulverizer=Verpulverd items.
+info.thermalexpansion.machine.sawmill=Voorziet van extra hout.
+info.thermalexpansion.machine.smelter=Smelt legeringen en metalen. Twee invoer slots.
+info.thermalexpansion.machine.transposer=Manipuleert vloeistoffen en vloeistof houders.
+
+item.thermalexpansion.augment.dynamoCoilDuct.name=Transmissie Spoel Kanalisering
+item.thermalexpansion.augment.dynamoThrottle.name=Opwekveld begrenzer
+
+item.thermalexpansion.florb.standard.name=Florb
+item.thermalexpansion.florb.magmatic.name=Magmatische Florb
+
+tab.thermalexpansion.device.nullifier.0=Stuurt alles naar /dev/null!
+tab.thermalexpansion.device.nullifier.1=Het is een vreselijke plek, zelfs vloeistoffen kunnen er niet uit ontsnapppen.
+
+tab.thermalexpansion.dynamo.0=Generatie snelheid varieert als de vraag naar energie stijgt.
+tab.thermalexpansion.dynamo.compression.0=Genereert Redstone Flux met vloeibare brandstoffen.
+tab.thermalexpansion.dynamo.enervation.0=Ontrekt Redstone Flux direct uit natuurlijke bronnen of ui objecten die het opslaan.
+tab.thermalexpansion.dynamo.magmatic.0=Generereert Redstone Flux met extreem hete vloeistoffen.
+tab.thermalexpansion.dynamo.reactant.0=Genereert Redstone Flux met chemische reacties.
+tab.thermalexpansion.dynamo.reactant.1=Een vaste reagent en vloeibare brandstof moet voorzijn zijn.
+tab.thermalexpansion.dynamo.steam.0=Genereert Redstone Flux met Stoom.
+tab.thermalexpansion.dynamo.steam.1=vaste Brandstoffen en Water kan gebruikt worden om stoom te genereren.
+
+tab.thermalexpansion.machine.charger.0=Vul compatibele items met energie.
+tab.thermalexpansion.machine.charger.1=Oplaad snelheid kan gelimiteerd zijn door de item.
+tab.thermalexpansion.machine.charger.2=Voel het brommen.
+tab.thermalexpansion.machine.crucible.0=Verandert vaste materialen in vloeistoffen!
+tab.thermalexpansion.machine.crucible.1=Erg handig voor het bouwen van geanvanceerde apparaten.
+tab.thermalexpansion.machine.crucible.2=Hou weg van kleine kinderen en huisdieren.
+tab.thermalexpansion.machine.extruder.0=Mixt water en lava om verschillende soorten vurig steen.
+tab.thermalexpansion.machine.extruder.1=Het geselecteerde item is wat je zal krijgen, als er genoeg water en lava in de reservoirs zit.
+tab.thermalexpansion.machine.extruder.2=Minecraft natuurkunde is leuk!
+tab.thermalexpansion.machine.furnace.0=Smelt dingen met Redstone Flux.
+tab.thermalexpansion.machine.furnace.1=Gebruik erg weinig energie om eten te koken.
+tab.thermalexpansion.machine.furnace.2=Om nom nom.
+tab.thermalexpansion.machine.precipitator.0=Gebruikt Redstone Flux om diverse vloeistoffen te bevriezen!
+tab.thermalexpansion.machine.pulverizer.0=Verpulverd dingen tot andere dingen.
+tab.thermalexpansion.machine.pulverizer.1=Bruikbaar voor de verwerking van erts or het converteren van items.
+tab.thermalexpansion.machine.pulverizer.2=Dit is meestal niet terug te draaien.
+tab.thermalexpansion.machine.sawmill.0=Hakt boomstammen tot planken en herverwerkt houten dingen.
+tab.thermalexpansion.machine.sawmill.1=Erg handig om het uiterste uit een boom te halen.
+tab.thermalexpansion.machine.sawmill.2=Kijk uit met je handen.
+tab.thermalexpansion.machine.smelter.0=Smelt metalen en dingen die hoge temperaturen nodig hebben.
+tab.thermalexpansion.machine.transposer.0=Vult of leegt dingen die vloeistoffen bevatten.
+tab.thermalexpansion.machine.transposer.1=Druk op de knop om te wisselen tussen Vullen en Ontrekken.
+tab.thermalexpansion.machine.transposer.2=Meestal terugdraaibaar.
+
+tile.thermalexpansion.device.nullifier.name=Vernietiger
+
+tile.thermalexpansion.dynamo.compression.name=Compressie Dynamo
+tile.thermalexpansion.dynamo.enervation.name=Slapheid Dynamo
+tile.thermalexpansion.dynamo.magmatic.name=Magmatische Dynamo
+tile.thermalexpansion.dynamo.reactant.name=Reagent Dynamo
+tile.thermalexpansion.dynamo.steam.name=Stoom Dynamo
+
+tile.thermalexpansion.machine.charger.name=Energetische Doordrenker
+tile.thermalexpansion.machine.crucible.name=Magma Smeltkroes
+tile.thermalexpansion.machine.extruder.name=Vuur Extrusiemachine
+tile.thermalexpansion.machine.furnace.name=Redstone Fornuis
+tile.thermalexpansion.machine.insolator.name=Fytogenische Isolator
+tile.thermalexpansion.machine.precipitator.name=Glaciale Afscheider
+tile.thermalexpansion.machine.pulverizer.name=Verpulveraar
+tile.thermalexpansion.machine.sawmill.name=Houtzager
+tile.thermalexpansion.machine.smelter.name=Inductie Smelter
+tile.thermalexpansion.machine.transposer.name=Vloeistor Transpositeur

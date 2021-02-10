@@ -1,0 +1,40 @@
+# Translation credit: Emirhangg
+
+# Creative tab
+itemGroup.tabEngineersDoors=Engineer's Doors
+
+# Items
+item.door_concrete.name=Beton Kapı
+item.door_concrete_ornate.name=Beton Kapı
+item.door_concrete_reinforced.name=Beton Kapı
+item.door_steel.name=Çelik Kapı
+item.door_steel_ornate.name=Çelik Kapı
+item.door_steel_reinforced.name=Çelik Kapı
+item.door_treated.name=İşlenmiş Tahta Kapı
+item.door_treated_ornate.name=İşlenmiş Tahta Kapı
+item.door_treated_reinforced.name=İşlenmiş Tahta Kapı
+item_variant.door.ornate=Süslü
+item_variant.door.reinforced=Güçlendirilmiş
+item.fencegate_aluminium.name=Alüminyum Çit Kapısı
+item.fencegate_steel.name=Çelik Çit Kapısı
+item.fencegate_treated.name=İşlenmiş Tahta Çit Kapısı
+item.trapdoor_concrete.name=Beton Tuzak Kapısı
+item.trapdoor_steel.name=Çelik Tuzak Kapısı
+item.trapdoor_treated.name=İşlenmiş Tahta Tuzak Kapısı
+
+# Blocks
+tile.door_concrete.name=Beton Kapı
+tile.door_concrete_ornate.name=Beton Kapı
+tile.door_concrete_reinforced.name=Beton Kapı
+tile.door_steel.name=Çelik Kapı
+tile.door_steel_ornate.name=Çelik Kapı
+tile.door_steel_reinforced.name=Çelik Kapı
+tile.door_treated.name=İşlenmiş Tahta Kapı
+tile.door_treated_ornate.name=İşlenmiş Tahta Kapı
+tile.door_treated_reinforced.name=İşlenmiş Tahta Kapı
+tile.fencegate_aluminium.name=Alüminyum Çit Kapısı
+tile.fencegate_steel.name=Çelik Çit Kapısı
+tile.fencegate_treated.name=İşlenmiş Tahta Çit Kapısı
+tile.trapdoor_concrete.name=Beton Tuzak Kapısı
+tile.trapdoor_steel.name=Çelik Tuzak Kapısı
+tile.trapdoor_treated.name=İşlenmiş Tahta Tuzak Kapısı

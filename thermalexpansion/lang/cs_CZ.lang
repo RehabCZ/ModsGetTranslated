@@ -1,0 +1,107 @@
+#cs_CZ
+
+achievement.thermalexpansion.florb.desc=Obsahuje tekutinu. Můžeš to hodit.
+achievement.thermalexpansion.florb=Mohu to hodit ?!
+achievement.thermalexpansion.florbMagmatic.desc=Florb. Ano, uchovává lávu. Ty příšero.
+achievement.thermalexpansion.florbMagmatic=Sleduj hořet svět
+
+info.thermalexpansion.augment.dynamoCoilDuct.0=Umožňuje vkládání a odebírání předmětů skrz cívku dynama.
+
+info.thermalexpansion.augment.dynamoThrottle.0=Zlepšuje škrcení dynama takže to může omezit výstup energie na 0 RF/t.
+
+info.thermalexpansion.augment.machineFurnaceFood.0=Navyšuje výstup ovoce.
+
+info.thermalexpansion.device.nullifier=Odstraňuje věci ze světa.
+
+info.thermalexpansion.dynamo.compression=Vyžaduje tekuté palivo a chladič.
+info.thermalexpansion.dynamo.enervation=Vytahuje flux z různých objektů.
+info.thermalexpansion.dynamo.magmatic=Vyžaduje horké tekutiny.
+info.thermalexpansion.dynamo.reactant=Vyžaduje tekuté palivo a pevný reaktant.
+info.thermalexpansion.dynamo.steam=Vyžaduje vodu a tuhé palivo.
+
+info.thermalexpansion.machine.charger=Nabíjí předměty RF energií.
+info.thermalexpansion.machine.crucible=Taví předměty na tekutiny.
+info.thermalexpansion.machine.extruder=Mixuje horké a studené tekutiny.
+info.thermalexpansion.machine.furnace=Peče předměty.
+info.thermalexpansion.machine.insolator=Dodává rostlinám 'slunce' a RF.
+info.thermalexpansion.machine.precipitator=Mrazí tekutiny na pevné látky.
+info.thermalexpansion.machine.pulverizer=Drtí předměty.
+info.thermalexpansion.machine.sawmill=Poskytuje přídavné dřevo.
+info.thermalexpansion.machine.smelter=Spéká slitiny a kody. Dva vstupy.
+info.thermalexpansion.machine.transposer=Obsluhuje tekutiny a tekutinové úložiště.
+
+item.thermalexpansion.augment.dynamoCoilDuct.name=Cívka převodovky potrubí
+item.thermalexpansion.augment.dynamoThrottle.name=Omezovač pole buzení
+
+item.thermalexpansion.augment.machineFurnaceFood.name=Trivekční komora
+
+item.thermalexpansion.florb.standard.name=Florb
+item.thermalexpansion.florb.magmatic.name=Magmatický Florb
+
+itemGroup.thermalexpansion.creativeTab=Thermal Expansion
+itemGroup.thermalexpansion.creativeTabFlorbs=Thermal Expansion: Florby
+itemGroup.thermalexpansion.creativeTabItems=Thermal Expansion: Předměty
+
+tab.thermalexpansion.device.nullifier.0=Odesílá všechny věci do /dev/null!
+tab.thermalexpansion.device.nullifier.1=Je to příšerné místo; ani tekutiny nemohou uniknout.
+
+tab.thermalexpansion.dynamo.0=Rychlost generace závisí na energetickém požadavku.
+tab.thermalexpansion.dynamo.compression.0=Generuje ruditový flux s použitím tekutých paliv a chladících kapalin.
+tab.thermalexpansion.dynamo.enervation.0=Extrahuje ruditový Flux přímo z přírodních zdrojů, nebo objektů, které ho ukládají.
+tab.thermalexpansion.dynamo.magmatic.0=Generuje ruditový flux s použitím extrémně horkých tekutin.
+tab.thermalexpansion.dynamo.reactant.0=Generuje ruditový flux s použitím alchymistických reakcí.
+tab.thermalexpansion.dynamo.reactant.1=Musí být poskytnut pevný reaktant a tekuté palivo.
+tab.thermalexpansion.dynamo.steam.0=Generuje ruditový Flux s použitím páry.
+tab.thermalexpansion.dynamo.steam.1=Pevné paliva a voda mohou být použity pro generování páry.
+
+tab.thermalexpansion.machine.charger.0=Přenáší energii do kompatibilních předmětů.
+tab.thermalexpansion.machine.charger.1=Nabíjecí rychlost může být omezena předmětem.
+tab.thermalexpansion.machine.charger.2=Užij si hukot.
+tab.thermalexpansion.machine.crucible.0=Mění pervné materiály v tekuté!
+tab.thermalexpansion.machine.crucible.1=Velmi užitečné při výrobě pokročilých zařízení.
+tab.thermalexpansion.machine.crucible.2=Chraňte před malými dětmi a zvířaty.
+tab.thermalexpansion.machine.extruder.0=Míchá vodu a lávu pro výrobu odlišných typů kamene.
+tab.thermalexpansion.machine.extruder.1=Vybraný předměť je to, co dostaneš, pokud je v tanku dostatek vody a lávy.
+tab.thermalexpansion.machine.extruder.2=Minecraftová fyzika je zábava!
+tab.thermalexpansion.machine.furnace.0=Vypaluje věci s použitím ruditového Fluxu.
+tab.thermalexpansion.machine.furnace.1=Používá velmi malou energii pro uvaření jídla.
+tab.thermalexpansion.machine.furnace.2=Mňam ňam ňam.
+tab.thermalexpansion.machine.insolator.0=Přenáší živiny a světlo do rostlin s použitím ruditového Fluxu.
+tab.thermalexpansion.machine.insolator.1=Né tak úplně 'přírodní' farmaření.
+tab.thermalexpansion.machine.insolator.2=Levý slot může být uzamčen pro obsažení pouze některých předmětů.
+tab.thermalexpansion.machine.insolator.3=Slavně žhavící!
+tab.thermalexpansion.machine.precipitator.0=Používá ruditový Flux pro zmražení určitých tekutin!
+tab.thermalexpansion.machine.precipitator.1=Vybraný předměť je to, co dostaneš, pokud je v tanku dostatek tekutiny.
+tab.thermalexpansion.machine.precipitator.2=Užij si koulovačku.
+tab.thermalexpansion.machine.pulverizer.0=Drtí věci na jiné věci.
+tab.thermalexpansion.machine.pulverizer.1=Užitečné při procesování rud nebo přeměňování předmětů.
+tab.thermalexpansion.machine.pulverizer.2=Je to samozřejmě nevratné.
+tab.thermalexpansion.machine.sawmill.0=Seká polena na prkna a zpracovává dřevěné věci.
+tab.thermalexpansion.machine.sawmill.1=Velice užitečné pro dělání většiny věcí týkajících se tromu.
+tab.thermalexpansion.machine.sawmill.2=Pozor na ruce.
+tab.thermalexpansion.machine.smelter.0=Vypéká kovy a věci, které potřebují vysoké teploty.
+tab.thermalexpansion.machine.smelter.1=Užitečné pro zpracování rud a výrobu pokročilých zařízení.
+tab.thermalexpansion.machine.smelter.2=Levý slot může být uzamčen pro obsažení pouze některých předmětů.
+tab.thermalexpansion.machine.smelter.3=Určitě nebude péct jídlo.
+tab.thermalexpansion.machine.transposer.0=Plní nebo vyprazdňuje věci, které uchovávají tekutiny.
+tab.thermalexpansion.machine.transposer.1=Klikni na tlačítko pro změnu mezi plnícím a vyprazdňovacím módem.
+tab.thermalexpansion.machine.transposer.2=Samozřejmě to jde i vrátit naopak.
+
+tile.thermalexpansion.device.nullifier.name=Anulovač
+
+tile.thermalexpansion.dynamo.compression.name=Kompresní dynamo
+tile.thermalexpansion.dynamo.enervation.name=Vyčerpávací dynamo
+tile.thermalexpansion.dynamo.magmatic.name=Magmatické dynamo
+tile.thermalexpansion.dynamo.reactant.name=Reaktantní dynamo
+tile.thermalexpansion.dynamo.steam.name=Parní dynamo
+
+tile.thermalexpansion.machine.charger.name=Energetický plnič
+tile.thermalexpansion.machine.crucible.name=Magmatická mísa
+tile.thermalexpansion.machine.extruder.name=Ohnivý extruder
+tile.thermalexpansion.machine.furnace.name=Ruditová pec
+tile.thermalexpansion.machine.insolator.name=Rostlinný izolátor
+tile.thermalexpansion.machine.precipitator.name=Glaciální odlučovač
+tile.thermalexpansion.machine.pulverizer.name=Mlýnek
+tile.thermalexpansion.machine.sawmill.name=Pila
+tile.thermalexpansion.machine.smelter.name=Indukční vypalovač
+tile.thermalexpansion.machine.transposer.name=Tekutinový plnič

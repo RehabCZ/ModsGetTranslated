@@ -1,0 +1,400 @@
+achievement.openblocks.droppedBrick=Zoinks!
+achievement.openblocks.droppedBrick.desc=Entschuldigung, das ist einfach so passiert...
+stat.openblocks.bricksDropped=Fallen gelassene Ziegel
+achievement.openblocks.stackOverflow=Stack Overflow
+achievement.openblocks.stackOverflow.desc=Es ist voller Sterne!
+
+openblocks.keybind.category=OpenBlocks
+openblocks.keybind.drop_brick=Sei albern
+openblocks.keybind.vario_switch=Vario Ein/Aus
+openblocks.keybind.vario_vol_up=Vario lauter
+openblocks.keybind.vario_vol_down=Vario leiser
+
+enchantment.openblocks.explosive=Instabil
+enchantment.openblocks.laststand=Letzte Rettung
+enchantment.openblocks.flimflam=Blödsinn
+
+openblocks.gui.blocks=Blöcke
+openblocks.gui.items=Items
+openblocks.gui.misc=Verschiedenes
+openblocks.gui.changelogs=Änderungsprotokoll
+
+openblocks.gui.features=Eigenschaften
+openblocks.gui.bugfixes=Fehlerbehebungen
+openblocks.gui.tweaks=Optimierungen
+
+openblocks.gui.luggage=Reisegepäck
+openblocks.gui.sprinkler=Rasensprenger
+openblocks.gui.vacuumhopper=Vakuumtrichter
+openblocks.gui.bigbutton=Großer Knopf
+openblocks.gui.xpbottler=EP-Abfüllgerät
+openblocks.gui.autoanvil=Autom. Amboss
+openblocks.gui.autoeject=Autom. Auswerfer
+openblocks.gui.autoextract=Autom. Extrahierer
+openblocks.gui.autodrink=Autom. Trinkgerät
+openblocks.gui.autoenchantmenttable=Autom. Zaubertisch
+openblocks.gui.donationstation=Spendenstation
+openblocks.gui.itemdropper=Itemspender
+openblocks.gui.blockplacer=Blockplatzierer
+openblocks.gui.paintmixer=Farbmischer
+openblocks.gui.drawingtable=Zeichentisch
+openblocks.gui.digitalfuse=Digitaler Zünder
+openblocks.gui.xp_outputs=EP-Abgabe
+openblocks.gui.item_outputs=Item-Abgabe
+openblocks.gui.limit=Grenze
+openblocks.gui.available_power=Verfügbare Energie: %d
+openblocks.gui.save_folder=Ordner sichern
+
+openblocks.gui.drawingtable.stencils=Schablonen
+openblocks.gui.drawingtable.glyphs=Glyphen
+openblocks.gui.drawingtable.print=Druck
+
+openblocks.gui.welcome.title=Willkommen!
+openblocks.gui.welcome.content=OpenBlocks ist eine neue freie Mod, die verschiedene Ideen in Minecraft einbringt, inklusive Gleitschirme, Aufzüge, Tanks, Gräber, Farben, Kräne, flüssige Erfahrungspunkte, Kartographen, Trophäen und mehr!
+
+openblocks.gui.credits.title=Danksagungen
+openblocks.gui.credits.content=§LBoq, Mikee und NeverCast§R - Führende Entwickler von OpenBlocks (Dürfen wir uns selbst hier nennen?)\n\n§LSinZ und Yoshi2§R - Von Anfang an Mitglieder des OpenMods-Teams.\n\n§LVexatos und crafteverywhere§R -Übersetzen regelmäßig die Modifikation.\n\nJeder, der innerhalb der letzten zwei Jahre zum Code beigetragen hat.\n\n§LDirewolf20 und der Rest von ForgeCraft§R - Für das Entdecken der Fehler und Abstürze vor der Veröffentlichung einer Version.\n\nJeder, der einen Einblick oder Let's Play machte sowie generell die Modifikation untertützt hat, seit wir begannen!
+
+openblocks.gui.config.title=Einfache Konfigurations-Bearbeitung
+openblocks.gui.config.content=OpenMods erlaubt, sowohl den Client- als auch den Serverkonfigurationen über den Chat zu ändern. Manche brauchen nicht mal einen Neustart!\n\nServerkonfigurationen können mit '§L/om_config_s§R' (setzt Operator-Rechte vorraus) und Clientkonfigurationen mit '§L/om_config_c§R' geändert werden.\n\nZum Beispiel:\n\n§L/om_config_s set OpenBlocks dropblock elevatorDrainsXP false§R\n§L/om_config_s save§R\n\nFür eine Liste aller verfügbaren Befehlen benutze: §L/help om_config_s§R oder §L/help om_config_c§R
+
+openblocks.gui.restore_inv.title=Inventar-Sicherung
+openblocks.gui.restore_inv.content=Jeder kann einen Fehler machen, aber mit dem §L/ob_inventory§R-Befehl kannst du einige von ihnen wieder beheben. Dieser Befehl kann zum Wiederherstellen des Inventars genutzt werden. Ein Backup wird erstellt wenn:\n - der Spieler stirbt\n - ein Grabstein gespawnt wird \n - der Spieler den Befehl §L/ob_inventory store§R eingibt\n\nUm den Inventar wiederherzustellen benötigst du einen Sicherungs-Namen. Gehe in den unten genannten Ordner oder den saves-Ordner bei Servern und such nach Dateien mit dem Namen §Linventory-*.dat§R. Dann stelle das Inventar wieder her mit §L/ob_inventory restore <player> <id>§R - wobei die ID der volle Dateiname ist, oder nur der mittlere Teil ohne §Linventory-§R and §L.dat§R. Du kannst Tabvervollständigung benutzen. Sicherungen sind normale NBT-Dateien und können mit einem entsprechenden Bearbeitungsprogramm geöffnet werden.
+
+openblocks.gui.bkey.title=Die berüchtigte 'B'-Taste
+openblocks.gui.bkey.content=Die 'B'-Taste ist eine sehr spezielle Taste in OpenBlocks.\n\nDas Aktivieren der Option 'weAreSeriousPeople' im Abschnitt 'tomfoolery' sowohl in der Client- als auch in der Serverkonfiguration gibt dir dein eigenes Verdauungssystem.\n\nVersuche etwas von diesem Leckeren Lehm zu essen und drücke 'B', um ihn zu verdauen!
+
+openblocks.gui.unstable.title='Instabil'-Verzauberung
+openblocks.gui.unstable.content=Wir hatten unbestätigte Berichte, dass diese Verzauberung jegliches Schießpulver, welches du trägst, instabil werden lässt, wenn du attackiert wirst oder von etwas herunterspringst.\n\nBenutzung auf eigene Gefahr!
+
+openblocks.gui.flimflam.title='Blödsinn'-Verzauberung
+openblocks.gui.flimflam.content=Wissenschaftler sind noch dabei, die Eigenschaften dieser Verzauberung zu erforschen.
+
+openblocks.gui.laststand.title='Letzte Rettung'-Verzauberung
+openblocks.gui.laststand.content=Die 'Letzte Rettung'-Verzauberung verwendet deine Erfahrungspunkten-Leiste als letzten Schutz vor dem Tod.\n\nWenn du 0.5 Herzen erreichst, wird das Spiel dir die Erfahrungspunkte entziehen, wenn du Schaden bekommst, statt dich zu töten. Je höher das Verzauberungs-Stufe ist, desto weniger Erfahrungspunkte wird dies kosten.
+
+openblocks.changelog.title=Was neu ist in OpenBlocks %s
+openblocks.misc.url=URL: %s
+openblocks.misc.type=Typ: %s
+openblocks.misc.uses=Nutzt: %.2f
+openblocks.misc.color=Farbe: %06X
+openblocks.misc.mode=Platzierungs-Modus: %s
+openblocks.misc.mode.block=Block
+openblocks.misc.mode.panel=Platte
+openblocks.misc.mode.half_panel=Halbhohe Platte
+openblocks.misc.mode.stairs=Treppe
+openblocks.misc.mode.inverted_block=Invertierter Block
+openblocks.misc.mode.inverted_panel=Invertierte Platte
+openblocks.misc.mode.inverted_half_panel=Invertierte Halbhohe Platte
+openblocks.misc.mode.inverted_stairs=Invertierte Treppe
+openblocks.misc.structure_pos=Debug: Struktur %s gefunden bei (%d,%d,%d)
+openblocks.misc.locked=Gesperrt
+openblocks.misc.selected_cannon=Kanone zum Zielen ausgewählt
+openblocks.misc.pointed_cannon=Kanone zielt nun auf %s, %s, %s
+openblocks.misc.change_mode=Wechsle zu %s-Modus
+openblocks.misc.change_size=Ändere Größe zu %sx%sx%s
+openblocks.misc.change_box_size=Ändere Größe zu (%d,%d,%d):(%d,%d,%d)
+openblocks.misc.total_blocks=Insgesamt gezählte Blöcke: %d
+openblocks.misc.get_witched=Werde verhext!
+openblocks.misc.page=Seite %d von %d
+openblocks.misc.oh_no_ceiling=Du kannst hier nicht schlafen. Die Decke beunruhigt dich zu sehr...
+openblocks.misc.oh_no_ground=Auf DEM Ding willst du schlafen?!
+openblocks.misc.sleeping_bag_broken=Item inaktiv wegen fehlerhafter Initialisierung
+openblocks.misc.inverted=Invertiert
+openblocks.misc.structure_not_locked=Mit keiner Struktur verbunden!
+openblocks.misc.locked_on_nearest_structure=Verbunden mit %d in der Nähe
+openblocks.misc.locked_on_structure=Verbunden mit %s
+openblocks.misc.no_nearby_structures=Kann keine nahen Strukturen finden
+
+openblocks.misc.grave_msg=%s (Tag: %.1f)
+
+openblocks.misc.cant_restore_player=Kann Inventar für %s nicht wiederherstellen
+openblocks.misc.cant_restore_inventory=Kann Inventar nicht wiederherstellen
+openblocks.misc.cant_store=Das Inventar für %s kann nicht gespeichert werden
+openblocks.misc.invalid_sub_inventory=Kann Unterinventar %s nicht widerherstellen
+openblocks.misc.stored_inventory=Spielerinventar gespeichert in %s
+openblocks.misc.restored_inventory=Inventar von Spieler %s wiederhergestellt
+openblocks.misc.invalid_index=Fehlerhaftes Verzeichnis
+openblocks.misc.empty_slot=Kein Item im Slot
+
+openblocks.misc.pedometer.tracking_reset=Zähler zurückgesetzt
+openblocks.misc.pedometer.tracking_started=Zähler gestartet
+
+openblocks.misc.pedometer.start_point=Startpunkt: %s
+openblocks.misc.pedometer.speed=Geschwindigkeit: %s
+openblocks.misc.pedometer.avg_speed=Durchschnittsgeschw.: %s
+openblocks.misc.pedometer.total_distance=Gesamt-Distanz: %s
+
+openblocks.misc.pedometer.straght_line_distance=Distanz in Luftlinie: %s
+openblocks.misc.pedometer.straigh_line_speed=Geschw. in Luftlinie: %s
+
+openblocks.misc.pedometer.last_check_distance=Distanz von letzter Prüfung: %s
+openblocks.misc.pedometer.last_check_speed=Letzte Geschw.-Prüfung: %s
+openblocks.misc.pedometer.last_check_time=Zeit seit der letzen Prüfung: %d Ticks
+
+openblocks.misc.pedometer.total_time=Gesamtdauer: %d Ticks
+
+openblocks.misc.shape=Form: %s
+openblocks.misc.shape.sphere=Kugel
+openblocks.misc.shape.cylinder=Zylinder
+openblocks.misc.shape.cuboid=Quader
+openblocks.misc.shape.full_cuboid=Voller Quader
+openblocks.misc.shape.dome=Kuppel
+openblocks.misc.shape.triangle=Dreieck
+openblocks.misc.shape.pentagon=Fünfeck
+openblocks.misc.shape.hexagon=Sechseck
+openblocks.misc.shape.octagon=Achteck
+openblocks.misc.shape.axes=Achsen
+openblocks.misc.shape.planes=Ebenen
+
+openblocks.misc.box=Maße: (%d,%d,%d):(%d,%d,%d)
+openblocks.misc.width=Breite: %d
+openblocks.misc.height=Höhe: %d
+openblocks.misc.depth=Tiefe: %d
+
+openblocks.misc.radio.too_many=Es laufen bereits zu viele Radios
+openblocks.misc.radio.invalid_stream=Ungültiger Stream
+openblocks.misc.radio.invalid_url=Ungültige URL
+openblocks.misc.radio.url_not_found=URL nicht gefunden
+openblocks.misc.radio.unknown_stream_type=Unbekannter Stream-Typ
+openblocks.misc.radio.malformed_data=Fehlerhafte Daten im Stream
+openblocks.misc.radio.not_ready=Stream nicht bereit, versuche es später nochmal
+openblocks.misc.radio.cant_connect=Konnte nicht verbinden
+openblocks.misc.radio.unknown_error=Unbekannter Fehler
+openblocks.misc.radio.muted=Geräusche sind deaktiviert!
+
+openblocks.misc.side.east=Ostseite
+openblocks.misc.side.west=Westseite
+openblocks.misc.side.north=Nordseite
+openblocks.misc.side.south=Südseite
+openblocks.misc.side.up=Oberseite
+openblocks.misc.side.down=Unterseite
+
+openblocks.misc.command.invalid=Ungültige Befehlsparameter
+openblocks.misc.command.no_flim_flam=Ungültiger Blödsinns-Name
+openblocks.misc.command.flim_flam_source=Spieler %s wurde erfolgreich vom Blödsinn mit %s heimgesucht
+openblocks.misc.command.flim_flam_target=Jemand mag dich nicht. Jemand mit Macht...
+openblocks.misc.command.flim_flam_failed=Der Blödsinn hat nicht funktioniert!
+openblocks.misc.command.luck_added=Glück von Spieler %s geändert, aktuell: %d
+openblocks.misc.command.luck_current=Glück von Spieler %s: %d
+
+openblocks.misc.total_ticks=Ticks insgesamt: %d (%.2fs)
+
+openblocks.misc.hidden_lore=§a§oHalte ALT gedrückt für die Geschichte§r
+openblocks.flim_flammed=Etwas seltsames geschieht um dich herum...
+
+openblocks.misc.dropper.speed=Geschwindigkeit
+openblocks.misc.dropper.use_redstone=Hängt von der Redstone-Signalstärke ab
+
+openblocks.turtle.magnet=Magnet
+
+tile.openblocks.elevator.name=Fahrstuhl
+tile.openblocks.elevator.description=Platziere einen Fahrstuhl drei oder mehr Blöcke oberhalb eines anderen ohne Blöcke dazwischen und du wirst fähig sein, entweder zu 'springen', um dich aufwärts zu bewegen oder zu 'kriechen', um dich abwärts zu bewegen. Fahrstühle können gefärbt werden, indem man mit einem Farbstoff in der Hand rechtsklickt. Du kannst dich jedoch nur zwischen Fahrstühlen in der selben Farbe teleportieren.
+
+tile.openblocks.elevator_rotating.name=Rotierender Fahrstuhl
+
+tile.openblocks.heal.name=Heiler
+tile.openblocks.heal.description=Der Heil-Block ist ein Block für den Kreativ-Modus, der nach und nach einen kleinen Heilungs-Effekt bringt.
+
+tile.openblocks.guide.name=Bau-Hilfe
+tile.openblocks.guide.description=Die Bau-Hilfe wird, wenn du sie mit Redstone aktivierst, dir eine Schablone aus Phantoblöcken geben, in unterschiedlichen Formen und Größen. Es wird dir helfen, deine Bauten zu planen.\nDu kannst den Block Shift-rechtsklicken, um die Form zu verändern, oder du kannst verschiedene Seiten anklicken, um die Schablone zu vergößern bzw. zu verkleinern.\nIm Kreativ-Modus kannst du einen Obsidian-Block oberhalb der Bau-Hilfe platzieren und diese dann mit irgendeinem Block rechtsklicken, um die Schablone automatisch mit diesem Block auszufüllen.
+
+tile.openblocks.builder_guide.name=Verbesserte Bau-Hilfe
+tile.openblocks.builder_guide.description=Die verbesserte Form der Bau-Hilfe zeigt nicht nur Phantomblöcken zum einfacheren Bauen, sondern erlaubt auch das Setzen der eigentlichen Blöcke. Klicke dazu einfach auf den zentralen Block mit einem beliebigen Stapel!\nIm Kreativmodus kannst du einen Obisidanblock darüber platzieren und dann die Bau-Hilfe mit einem beliebigen Block hauen um das Gebäude zu bauen.
+
+tile.openblocks.ladder.name=Strickleiter
+tile.openblocks.ladder.description=Die Strickleiter löst das nervige Problem, über eine Falltür an der Spitze einer Leiter springen zu müssen. Die Strickleiter funktioniert zeitgleich wie eine Falltür und wie eine Leiter.
+
+tile.openblocks.tank.filled.name=%s Tank
+tile.openblocks.tank.name=Tank
+tile.openblocks.tank.description=Tanks können Flüssigkeiten halten. Wenn du Tanks nebeneinander platzierst, werden sie ihre Flüssigkeit untereinander aufteilen. Du kannst Flüssigkeiten mit Eimern in Tanks füllen. Wenn der Tank Flüssige Erfahrungspunkte enthält, kannst du mit einer leeren Hand rechtsklicken, um dir ein wenig dieser Erfahrungspunkte zu geben. Wenn abgebaut, behalten Tanks ihren Inhalt.
+
+tile.openblocks.flag.name=Flagge
+tile.openblocks.flag.description=Flaggen können als Dekoration verwendet werden oder, um den Weg aus einer Höhle zu markieren, die du gerade erforscht hast. Die Flagge zeigt in die Richtung, in der du sie platzierst, du kannst sie aber auch an die Wand hängen. Wenn du mit der Flagge in der Hand Shift-klickst, ändert sie ihre Farbe.
+
+tile.openblocks.beartrap.name=Bärenfalle
+tile.openblocks.beartrap.description=Platziere eine Bärenfalle und klicke auf sie, um sie zu öffnen. Wenn ein NPC über sie läuft, wird er sich nicht mehr bewegen können!
+
+tile.openblocks.sponge.name=Schwamm
+tile.openblocks.sponge.description=Der Schwamm ist ein Ersatz für den Vanilla-Schwamm. Perfekt, um kleine Mengen an Lava oder Wasser zu entfernen. Sei jedoch vorsichtig, wenn du mit größeren Mengen an Flüssigkeit arbeitest, denn es könnte ziemlich unordentlich werden.
+
+item.openblocks.sponge_on_a_stick.name=Schwamm
+item.openblocks.sponge_on_a_stick.description=Der Schwamm am Stiel ist ein Werkzeug zum Enfernen von Flüssigkeiten. Funktioniert wie der Schwamm, ist aber mobil und wird mit der Zeit aufgebraucht.
+
+item.openblocks.epic_eraser.name=Geschichtsveränderndes Radiergummi
+item.openblocks.epic_eraser.description=Jeder Gegenstand erzählt eine Geschichte...\n\nIst das nicht eigentlich saublöd?\n Mit diesem Gegenstand kannst du jegliche Spuren epischer Abenteuer, die dein Kram im Laufe der Jahrtausende erlebt hat, vollständig vernichten. Dann wird auch keiner Fragen stellen, wenn du ihn auf dem Schwarzmarkt vertickst.
+
+tile.openblocks.cannon.name=Item-Kanone
+tile.openblocks.cannon.description=Wenn ein Redstone-Signal anliegt, wird die Item-Kannone Gegenstände, die es in einem benachbarten Inventar findet, schießen. Benutze den 'Zeiger', um die Kannone auszurichten.
+
+tile.openblocks.rope_ladder.name=Strickleiter
+tile.openblocks.rope_ladder.description=Wenn du eine Strickleiter platzierst, wird sie sich bis zum Boden ausrollen.
+
+tile.openblocks.sprinkler.name=Rasensprenger
+tile.openblocks.sprinkler.description=Der Rasensprenger hilft dir, Pflanzen zu düngen, und hat einen Radius von bis zu 4 Blöcken. Platziere ihn einfach über einem OpenBlocks-Tank, der mit Wasser gefüllt ist! Du kannst auch Knochenmehl für noch schnelleres Wachstum hinzufügen.\nEr zählt auch als Wasser-Quellblock!
+
+tile.openblocks.paint_mixer.name=Farbmischer
+tile.openblocks.paint_mixer.description=Der Farbmischer kann jede Farbe, die du willst, zusammenmixen! Gib entweder einen Farbeimer oder einen Eimer Milch in den oberen Slot, dann Türkisen, Magentafarbenen, Gelben und Schwarzen Farbstoff in die anderen vier Slots und klicke auf Mixen!
+
+tile.openblocks.canvas.name=Leinwand
+tile.openblocks.canvas.description=Die Leinwand ist ein perfekt weißer Block, der perfekt zum Streichen ist. Siehe die Farbmischer-Information für die Herstellung von Farbe.
+
+tile.openblocks.canvas_glass.name=Leinwand
+
+tile.openblocks.fan.name=Ventilator
+tile.openblocks.fan.description=Der Ventilator bläst Spieler, NPCs und andere Objekte in die Richtung, in die er zeigt.
+
+tile.openblocks.target.name=Zielscheibe
+tile.openblocks.target.description=Die Zielscheibe gibt ein Redstone-Signal mit einer Stärke abhängig von der Genauigkeit des Schützen aus. Gib einer Zielscheibe ein Redstone-Signal, um sie ausklappen zu lassen!
+
+tile.openblocks.path.name=Pfad
+tile.openblocks.path.description=Der Pfad macht überhaupt nichts. Er sieht einfach nur gut aus!
+
+tile.openblocks.item_dropper.name=Itemspender
+tile.openblocks.item_dropper.description=Der Itemspender ist dem Vanilla-Spender ähnlich, außer dass er Gegenstände direkt in einer geraden Linie nach unten wirft.
+
+tile.openblocks.big_button.name=Großer Knopf
+tile.openblocks.big_button.description=Der große Knopf ist ein Knopf, der an der Wand platziert werden kann. Wenn du auf den Knopf mit einer leeren Hand Shift-klickst, wird ein Inventar mit einem einzelnen Slot erscheinen. Du kannst Gegenstände in diesen Slot geben, um die Zeit, die der Knopf gedrückt ist, zu verlängern - ein Gegenstand erhöht die Dauer um einen Tick.
+
+tile.openblocks.big_button_wood.name=Großer Holzknopf
+
+tile.openblocks.xp_drain.name=EP-Gitter
+tile.openblocks.xp_drain.description=Platziere ein EP-Gittter über einem OpenBlocks-Tank und stelle dich darauf. Deine Erfahrungspunkte werden in den Tank entleert, was dann für Blöcke wie den Automatischen Zaubertisch oder den Automatischen Amboss benutzt werden kann.
+
+tile.openblocks.vacuum_hopper.name=Vakuumtrichter
+tile.openblocks.vacuum_hopper.description=Der Vakuumtrichter saugt Gegenstände und Erfahrungs-Kugeln um sich herum auf. Du kannst die Tabs auf der rechten Seite der Oberfläche verwenden, um auszuwählen, zu welchen Seiten etwas ausgegeben werden soll.
+
+tile.openblocks.village_highlighter.name=Dorf-Textmarker
+tile.openblocks.village_highlighter.description=Platziere den Dorf-Textmarker in einem Dorf und gib ihm ein Redstone-Signal. Er wird den Umriss des Dorfes darstellen und eine Box im Eisengolem-Spawnbereich zeichnen. Nützlich, wenn du sichergehen willst, dass Dörfer nicht verschmelzen, oder wenn du eine Eisengolem-Farm baust!
+
+tile.openblocks.donation_station.name=Spendenstation
+tile.openblocks.donation_station.description=Du magst einen Block oder ein Gegenstand und willst dem Mod-Entwickler ein wenig Anerkennung zeigen? Schmeiß es in die Spendenstation und, wenn wir die Spendenseite der Entwickler kennen, geben wir dir einen Link.
+
+tile.openblocks.block_placer.name=Blockplatzierer
+tile.openblocks.block_placer.description=Wenn er ein Redstone-Signal bekommt, platziert der Blockplatzierer ein Gegenstand in die Richtung, in die er schaut.
+
+tile.openblocks.block_breaker.name=Blockbrecher
+tile.openblocks.block_breaker.description=Wenn er ein Redstone-Signal bekommt, bricht der Blockbrecher den Block, den er ansieht.
+
+tile.openblocks.projector.name=Höhenkartenprojektor
+tile.openblocks.projector.description=Ich überlasse es dir, boq, das hier zu schreiben!
+tile.openblocks.projector.working.name=Höhenkartenprojektor
+
+tile.openblocks.auto_enchantment_table.name=Autom. Zaubertisch
+tile.openblocks.auto_enchantment_table.description=Der Automatischer Zaubertisch funktioniert ähnlich wie der Vanilla-Zaubertisch, außer dass er mit flüssigen EP arbeitet. Benutze die Tabs auf der rechten Seite der Oberfläche, um auszuwählen, von wo Gegenstände und Erfahrungspunkte genommen werden sollen. Genau wie beim Vanilla-Zaubertisch brauchst du Bücherregale, wenn du mit höhere Leveln verzaubern willst.
+
+tile.openblocks.xp_bottler.name=EP-Abfüllgerät
+tile.openblocks.xp_bottler.description=Das EP-Abfüllgerät nimmt flüssige Erfahrungspunkten und füllt sie in Glasflaschen, um Erfahrungsfläschchen herzustellen.
+
+tile.openblocks.auto_anvil.name=Autom. Amboss
+tile.openblocks.auto_anvil.description=Der Automatischer Amboss funktioniert ähnlich wie ein Vanilla-Amboss, außer dass er mit flüssigen Erfahrungspunkten arbeitet und komplett automatisierbar ist.\n\nBenutze die Tabs auf der rechten Seite der Oberfläche, um auszuwählen, welche Seiten des Ambosses für Ein-/Ausgabe von Gegenstände oder Flüssigkeiten vorgesehen sind. Rechts-klicke und ziehe den Amboss im Tab, um ihn zu drehen und andere Seiten auszuwählen!
+
+tile.openblocks.drawing_table.name=Zeichentisch
+tile.openblocks.drawing_table.description=Der Zeichentisch wird gebraucht, um Schablonen herzustellen, die zum Zeichnen gebraucht werden. Gib eine unbearbeitete Schablone in den Zeichentisch und benutze die Pfeile, um die gewünschte Schablone auszuwählen!
+
+tile.openblocks.grave.name=Grab
+tile.openblocks.trophy.name=Trophäe
+tile.openblocks.trophy.entity.name=%s Trophäe
+tile.openblocks.canvasglass.name=Glasleinwand
+tile.openblocks.paint_can.name=Farbeimer
+
+tile.openblocks.sky.normal.name=Himmelsblock
+tile.openblocks.sky.normal.description=Bringe das Außen nach innen mit dem neuen Himmelsblock! Du musst lediglich ein Redstone-Signal geben. Wir bieten auch die invertierte Version an.
+tile.openblocks.sky.inverted.name=Invertierter Himmelsblock
+
+tile.openblocks.radio.name=Radio
+tile.openblocks.radio.description=Das Radio erlaubt es dir, Internetradio zu spielen! Zunächst brauchst du Wellenkristalle, die du in Truhen aus Verliesen findest oder von einem bestimmten Dorfbewohner bekommst. Platziere den Kristall ins Radio und gib diesem ein Redstone-Signal, um es anzuschalten. Die Stärke des Redstone-Signals bestimmt die Lautstärke.\n\nIn der Konfigurations-Datei des Servers kannst du konfigurieren, welche Radiosender verfügbar sind.
+
+tile.openblocks.xp_shower.name=EP-Dusche
+tile.openblocks.xp_shower.description=Bringe eine EP-Dusche an einen Tank voller EP-Saft an und sie wird EP-Kugeln ausschütten. Diese Kugeln können von einem EP-Gitter oder einer MFR-Kloake aufgesammelt werden.
+
+tile.openblocks.scaffolding.name=Gerüst
+tile.openblocks.scaffolding.description=Wolltest du jemals irgendwo hochbauen, ohne einen häslichen Turm zu hinterlassen? Jetzt kannst du! Baue mit Gerüstblöcken und sie verschwinden wenn du fertig bist mit bauen.
+
+tile.openblocks.golden_egg.name=Goldenes Ei
+
+tile.openblocks.digitalfuse.name=Digitalzünder
+
+item.openblocks.cursor.name=Mauszeiger
+item.openblocks.cursor.description=Der Mauszeiger lässt dich aus der Ferne klicken.\nShift-klicke einfach auf einen Block um den Mauszeiger zu verknüpfen, dann benutze ihn, wo immer du willst, um einen Klick auf das ausgewählte Ziel zu simulieren. Sei gewarnt, standardmäßig benutzt der Mauszeiger Erfahrungspunkte, abhängig davon wie weit du vom Ziel entfernt bist.
+
+item.openblocks.dev_null.name=/dev/null
+item.openblocks.dev_null.description=Klicke mit /dev/null, um das Inventar zu öffnen. Es gibt einen einzigen Inventar-Slot - dort legst du ein Gegenstand hinein, Erde zum Beispiel. Wenn du nun Erde abbaust, wird sich dieser Slot auffüllen. Sobald er voll ist, wird jegliche weitere Erde, die du einsammelst, automatisch weggeworfen. Du kannst das Item in deiner Hand Shift-klicken, als wenn du den Block platzieren würdest!
+
+item.openblocks.slimalyzer.name=Schleimalysierer
+item.openblocks.slimalyzer.description=Renne mit einem Schleimalysierer in deiner Hand herum, und er wird jedes Mal aufleuchten, wenn du dich in einem Schleime spawnenden Chunk befindest.
+
+item.openblocks.hang_glider.name=Hängegleiter
+item.openblocks.hang_glider.description=Der Hängegleiter ist selbsterklärend. Halte ihn in deiner Hand und klicke, um ihn auf deinem Rücken zu platzieren. Jetzt spring!\nDrücke Shift um während des Gleitens deine Geschwindigkeit zu erhöhen, doch pass auf, du wirst schneller sinken!\n\nDein Hängegleiter ist außerdem mit einem Variometer zur akustischen Indikation vertikaler Luftbewegungen ausgerüstet. Drücke V und bleibe für immer oben (oder bis die Sonne untergeht)!
+
+item.openblocks.glider_wing.name=Gleiterflügel
+
+item.openblocks.sleeping_bag.name=Schlafsack
+item.openblocks.sleeping_bag.description=Mit dem Schlafsack kannst du in der Wildnis schlafen, ohne deine Spawn-Position zurückzusetzen. Um zu schlafen, trage ihn einfach auf dem Rücken.
+
+item.openblocks.luggage.name=Reisegepäck
+item.openblocks.luggage.description=Das Reisegepäck ist dein neuer Freund. Es folgt dir überall hin und sammelt alle Gegenstände, die es am Boden findet, ein. Nom nom nom!\nUm es aufzuheben, Shift-klicke einfach auf es und es verwandelt sich zurück in ein Gegenstand, das du umhertragen kannst.\nWenn es jemals von einem Blitz getroffen werden sollte, wird es noch mehr Gegenstände tragen können!
+
+item.openblocks.sonic_glasses.name=Schallbrille
+item.openblocks.sonic_glasses.description=Wir stellen vor: Die fabelhafte neue Schallbrille!\nDiese neue und spannende Technologie der OpenMods GmbH erlaubt dir zu sehen, was du hörst!
+
+item.openblocks.squeegee.name=Scheibenwischer
+item.openblocks.squeegee.description=Der Scheibenwischer entfernt jegliche Farbe von gefärbten Blöcken. Klicke einfach auf die Seite eines Blockes, von der du die Farbe entfernen möchtest, oder Shift-klicke, um die Farbe von allen Seiten zu entfernen!
+
+item.openblocks.paintbrush.name=Pinsel
+item.openblocks.paintbrush.description=Pinsel lassen dich Blöcke in der Farbe deiner Wahl färben!\n\nTauche deinen Pinsel in einen Farbeimer, den du im Farbenmischer erstellt hast, und dann auf einen Block, um diesen zu färben.\n\nLeinwand-Blöcke sind perfekt zum anmalen, du kannst aber auch einige Vanilla- und sogar manche Mod-Blöcke färben. Du kannst auch Schablonen auf Blöcken platzieren und dann über die Schablone zeichnen!
+
+item.openblocks.unprepared_stencil.name=Unbearbeitete Schablone
+item.openblocks.unprepared_stencil.description="Was sind diese nervigen Schablonen, die ich dauernd in Truhen finde?"\n\nSchablonen können auf Blöcken platziert werden und dann mit einem Pinsel übermalt werden!\n\nDu kannst einen Block mit mehreren Schablonen bemalen und du kannst mit einer leeren Hand auf sie klicken, um sie zu drehen.\n\nPlatziere eine unbearbeitete Schablone in einen Zeichentisch, um verschiedene Formen zu erstellen.
+
+item.openblocks.crane_backpack.name=Kranrucksack
+item.openblocks.crane_backpack.description="Magnet" in der Minecraftwelt ist ein antikes Wort für "Wie funktioniert das?".\n\nDieser spezielle Ausrüstungsgegenstand erlaubt es Mobs, Spieler, Gegenstände und Blöcke aufzuheben. Kann durch Krankontrolle beeinflusst werden.
+
+item.openblocks.crane_control.name=Krankontrolle
+item.openblocks.crane_control.description=Dise drahtlose Hi-Tech-Fernbedienung wird für die Steuerung des Kranrucksacks verwendet.\n\nRechtsklick zum Anheben, Shift-Rechtsklick zum Absenken, Linksklick zum Aufheben/Fallenlassen.\nEine blinkende Leuchte signalisiert, das etwas unter dem Magneten ist.
+
+item.openblocks.wrench.name=Großer Metallbalken
+item.openblocks.wrench.description=Dies ist ein hochmodernes Werkzeug für die zu den Weltachsen orthogonale Transformation kubischer Objekte.\n\n\nOder nur ein großer, blöder Metallklotz, mit dem du Dinge rotieren kannst.\n\nJa, es ist halt noch ein Schraubenschlüssel, wie jeder andere auch. Du musst es mir nicht unter die Nase reiben.
+
+item.openblocks.glyph.name=Glyphe
+item.openblocks.glyph.with_char=Glyphe: '%c'
+
+item.openblocks.stencil.name=Schablone
+item.openblocks.crayon.name=Magischer Buntstift
+item.openblocks.pencil.name=Magischer Bleistift
+item.openblocks.glasses.pencil.name=Bleistiftbrille
+item.openblocks.glasses.crayon.name=Buntstiftbrille
+item.openblocks.glasses.technicolor.name=Erstaunliche Technicolor-Brille
+item.openblocks.glasses.admin.name=Badass-Brille
+item.openblocks.crane_engine.name=Kranmotor
+item.openblocks.crane_magnet.name=Kranmagnet
+item.openblocks.beam.name=Balken
+item.openblocks.line.name=Leine
+item.openblocks.miracle_magnet.name=§5Mirakelmagnet§r
+item.openblocks.info_book.name=Welteroberung mit OpenBlocks
+item.openblocks.xp_bucket.name=EP-Eimer
+item.openblocks.height_map.name=Höhenkarte
+item.openblocks.empty_map.name=Leere Karte
+item.openblocks.map_controller.name=Kartenkontrollmodul
+item.openblocks.map_memory.name=Kartenspeichermodul
+item.openblocks.cartographer.name=Kartograph
+item.openblocks.assistant_base.name=Assistenzbasis
+item.openblocks.sketching_pencil.name=Skizzierstift
+item.openblocks.tasty_clay.name=Leckerer Lehm
+item.openblocks.golden_eye.name=Goldenes Auge
+item.openblocks.pointer.name=Zeiger
+item.openblocks.tuned_crystal.name=Wellenkristall
+item.openblocks.pedometer.name=Schrittzähler
+
+item.openblocks.wallpaper.name=Poster
+
+itemGroup.tabOpenBlocks=OpenBlocks
+
+entity.openblocks.luggage.name=Reisegepäck
+entity.openblocks.cartographer.name=Kartograph
+entity.openblocks.block.name=Schwebender Block
+entity.openblocks.mini_me.name=Mini-Me
+
+fluid.openblocks.xp_juice=Flüssige EP
+
+entity.Villager.audiophile=Audiophil

@@ -1,0 +1,38 @@
+# Creative tab
+itemGroup.tabEngineersDoors=sɹooᗡ s,ɹǝǝuᴉᵷuƎ
+
+# Items
+item.door_concrete.name=ɹooᗡ ǝʇǝɹɔuoƆ
+item.door_concrete_ornate.name=ɹooᗡ ǝʇǝɹɔuoƆ
+item.door_concrete_reinforced.name=ɹooᗡ ǝʇǝɹɔuoƆ
+item.door_steel.name=ɹooᗡ ꞁǝǝʇS
+item.door_steel_ornate.name=ɹooᗡ ꞁǝǝʇS
+item.door_steel_reinforced.name=ɹooᗡ ꞁǝǝʇS
+item.door_treated.name=ɹooᗡ pooM pǝʇɐǝɹ⟘
+item.door_treated_ornate.name=ɹooᗡ pooM pǝʇɐǝɹ⟘
+item.door_treated_reinforced.name=ɹooᗡ pooM pǝʇɐǝɹ⟘
+item_variant.door.ornate=ǝʇɐuɹO
+item_variant.door.reinforced=pǝɔɹoɟuᴉǝᴚ
+item.fencegate_aluminium.name=ǝʇɐ⅁ ǝɔuǝℲ ɯnᴉuᴉɯnꞁⱯ
+item.fencegate_steel.name=ǝʇɐ⅁ ǝɔuǝℲ ꞁǝǝʇS
+item.fencegate_treated.name=ǝʇɐ⅁ ǝɔuǝℲ pooM pǝʇɐǝɹ⟘
+item.trapdoor_concrete.name=ɹoopdɐɹ⟘ ǝʇǝɹɔuoƆ
+item.trapdoor_steel.name=ɹoopdɐɹ⟘ ꞁǝǝʇS
+item.trapdoor_treated.name=ɹoopdɐɹ⟘ pooM pǝʇɐǝɹ⟘
+
+# Blocks
+tile.door_concrete.name=ɹooᗡ ǝʇǝɹɔuoƆ
+tile.door_concrete_ornate.name=ɹooᗡ ǝʇǝɹɔuoƆ
+tile.door_concrete_reinforced.name=ɹooᗡ ǝʇǝɹɔuoƆ
+tile.door_steel.name=ɹooᗡ ꞁǝǝʇS
+tile.door_steel_ornate.name=ɹooᗡ ꞁǝǝʇS
+tile.door_steel_reinforced.name=ɹooᗡ ꞁǝǝʇS
+tile.door_treated.name=ɹooᗡ pooM pǝʇɐǝɹ⟘
+tile.door_treated_ornate.name=ɹooᗡ pooM pǝʇɐǝɹ⟘
+tile.door_treated_reinforced.name=ɹooᗡ pooM pǝʇɐǝɹ⟘
+tile.fencegate_aluminium.name=ǝʇɐ⅁ ǝɔuǝℲ ɯnᴉuᴉɯnꞁⱯ
+tile.fencegate_steel.name=ǝʇɐ⅁ ǝɔuǝℲ ꞁǝǝʇS
+tile.fencegate_treated.name=ǝʇɐ⅁ ǝɔuǝℲ pooM pǝʇɐǝɹ⟘
+tile.trapdoor_concrete.name=ɹoopdɐɹ⟘ ǝʇǝɹɔuoƆ
+tile.trapdoor_steel.name=ɹoopdɐɹ⟘ ꞁǝǝʇS
+tile.trapdoor_treated.name=ɹoopdɐɹ⟘ pooM pǝʇɐǝɹ⟘

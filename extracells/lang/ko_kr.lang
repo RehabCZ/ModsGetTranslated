@@ -1,0 +1,128 @@
+//**********//
+//EXTRACELLS//
+//**********//
+
+//Items
+extracells.item.storage.physical.256k.name=ME 256k 저장 셀
+extracells.item.storage.physical.1024k.name=ME 1024k 저장 셀
+extracells.item.storage.physical.4096k.name=ME 4096k 저장 셀
+extracells.item.storage.physical.16384k.name=ME 16384k 저장 셀
+extracells.item.storage.physical.container.name=ME 블�? 용기
+extracells.item.storage.fluid.1k.name=ME 1k 액체 저장 셀
+extracells.item.storage.fluid.4k.name=ME 4k 액체 저장 셀
+extracells.item.storage.fluid.16k.name=ME 16k 액체 저장 셀
+extracells.item.storage.fluid.64k.name=ME 64k 액체 저장 셀
+extracells.item.storage.fluid.256k.name=ME 256k 액체 저장 셀
+extracells.item.storage.fluid.1024k.name=ME 1024k 액체 저장 셀
+extracells.item.storage.fluid.4096k.name=ME 4096k 액체 저장 셀
+extracells.item.storage.fluid.portable.name=ME 휴대용 액체 저장기
+extracells.item.storage.gas.1k.name=ME 1k 가스 저장 셀
+extracells.item.storage.gas.4k.name=ME 4k 가스 저장 셀
+extracells.item.storage.gas.16k.name=ME 16k 가스 저장 셀
+extracells.item.storage.gas.64k.name=ME 64k 가스 저장 셀
+extracells.item.storage.gas.256k.name=ME 256k 가스 저장 셀
+extracells.item.storage.gas.1024k.name=ME 1024k 가스 저장 셀
+extracells.item.storage.gas.4096k.name=ME 4096k 가스 저장 셀
+extracells.item.storage.gas.portable.name=ME 후대용 가스 저장기
+extracells.item.storage.component.physical.256k.name=256k ME 저장 요소
+extracells.item.storage.component.physical.1024k.name=1024k ME 저장 요소
+extracells.item.storage.component.physical.4096k.name=4096k ME 저장 요소
+extracells.item.storage.component.physical.16384k.name=16384k ME 저장 요소
+extracells.item.storage.component.fluid.1k.name=1k ME 액체 저장 요소
+extracells.item.storage.component.fluid.4k.name=4k ME 액체 저장 요소
+extracells.item.storage.component.fluid.16k.name=16k ME 액체 저장 요소
+extracells.item.storage.component.fluid.64k.name=64k ME 액체 저장 요소
+extracells.item.storage.component.fluid.256k.name=256k ME 액체 저장 요소
+extracells.item.storage.component.fluid.1024k.name=1024k ME 액체 저장 요소
+extracells.item.storage.component.fluid.4096k.name=4096k ME 액체 저장 요소
+extracells.item.storage.component.gas.1k.name=1k ME 가스 저장 요소
+extracells.item.storage.component.gas.4k.name=4k ME 가스 저장 요소
+extracells.item.storage.component.gas.16k.name=16k ME 가스 저장 요소
+extracells.item.storage.component.gas.64k.name=64k ME 가스 저장 요소
+extracells.item.storage.component.gas.256k.name=256k ME 가스 저장 요소
+extracells.item.storage.component.gas.1024k.name=1024k ME 가스 저장 요소
+extracells.item.storage.component.gas.4096k.name=4096k ME 가스 저장 요소
+extracells.item.storage.casing.physical.name=고급 저장기
+extracells.item.storage.casing.fluid.name=액체 저장기
+extracells.item.storage.casing.gas.name=가스 저장기
+extracells.item.terminal.fluid.wireless.name=무선 액체 터미�?
+extracells.item.terminal.gas.wireless.name=무선 가스 터미�?
+extracells.item.terminal.universal.wireless.name=무선 종합 터미�?
+extracells.item.fluid.pattern=ME 액체 패턴
+extracells.item.oc.upgrade.name=ME 업그레�?�드
+
+//Creative Tab
+itemGroup.Extra_Cells=엑스트�?� 셀즈
+
+//Item Groups
+extracells.fluid.IO=ME 액체 반출/반입 버스
+extracells.fluid.plane=ME 액체 소멸/형성 비행기
+
+//Parts
+extracells.part.fluid.export.name=ME 액체 반출 버스
+extracells.part.fluid.import.name=ME 액체 반입 버스
+extracells.part.fluid.storage.name=ME 액체 저장 버스
+extracells.part.fluid.terminal.name=ME 액체 터미�?
+extracells.part.fluid.plane.annihilation.name=ME 액체 소멸 비행기
+extracells.part.fluid.plane.formation.name=ME 액체 형성 비행기
+extracells.part.fluid.levelemitter.name=ME 액체 레벨 측정기
+extracells.part.drive.name=ME 드�?��?�브 고정기
+extracells.part.battery.name=ME �?너지 셀 고정기
+extracells.part.fluid.conversion.monitor.name=ME 액체 변환 모니터
+extracells.part.fluid.monitor.name=ME 액체 저장 모니터
+extracells.part.oredict.export.name=ME 오어 딕셔네리 반출 버스
+extracells.part.gas.export.name=ME 가스 반출 버스
+extracells.part.gas.import.name=ME 가스 반입 버스
+extracells.part.gas.terminal.name=ME 가스 터미�?
+extracells.part.gas.storage.name=ME 가스 저장 버스
+extracells.part.gas.levelemitter.name=ME 가스 레벨 측정기
+extracells.part.gas.conversion.monitor.name=ME 가스 변환 모니터
+extracells.part.gas.monitor.name=ME 가스 저장 모니터
+
+//Blocks
+extracells.block.certustank=서투스 �?�? 탱�?�
+extracells.block.walrus.name=월루스
+tile.extracells.block.fluidcrafter.name=ME 액체 조립기
+tile.extracells.block.fluidinterface.name=ME 액체 �?�터페�?�스
+tile.extracells.block.fluidfiller.name=ME 액체 �?�?� 필터
+tile.extracells.block.vibrantchamberfluid.name=액체 진�?�기
+tile.extracells.block.hardmedrive.name=내화성 ME 드�?��?�브
+
+//Tooltips and Chat-Messages
+extracells.tooltip.amount=양
+extracells.tooltip.fluid=액체
+extracells.tooltip.storage.physical.types=%s �?� %s 아�?�템 유형�?� 사용�?�었습니다.
+extracells.tooltip.storage.fluid.types=%s �?� %s 액체 유형�?� 사용�?�었습니다.
+extracells.tooltip.storage.physical.bytes=%s �?� %s 아�?�템 바�?�트가 사용�?�었습니다.
+extracells.tooltip.storage.fluid.bytes=%s �?� %s 액체 바�?�트가 사용�?�었습니다.
+extracells.tooltip.storage.fluid.content=액체 %smB가 �?�함�?�어 있습니다.
+extracells.tooltip.storage.physical.content=아�?�템 %s개가 �?�함�?�어 있습니다.
+extracells.tooltip.storage.gas.bytes=%s �?� %s 가스 바�?�트가 사용�?�었습니다.
+extracells.tooltip.storage.gas.content=가스 %s개가 �?�함�?�어 있습니다.
+extracells.tooltip.storage.gas.types=%s �?� %s 가스 유형�?� 사용�?�었습니다.
+extracells.tooltip.direction.0=하
+extracells.tooltip.direction.1=�?
+extracells.tooltip.direction.2=�?
+extracells.tooltip.direction.3=남
+extracells.tooltip.direction.4=서
+extracells.tooltip.direction.5=�?�
+extracells.tooltip.empty1=비어있�?�
+extracells.tooltip.storage.container.0=모드: 설치 모드
+extracells.tooltip.storage.container.1=모드: 같�?� 무역 모드 (1*1)
+extracells.tooltip.storage.container.2=모드: 같�?� 무역 모드 (3*3)
+extracells.tooltip.onlyblocks=아�?�템�?� 설치할 수 없습니다! 블�?�?� 블�? 용기�? 넣으세요.
+extracells.tooltip.save=저장
+extracells.tooltip.oredict=오어 딕셔네리 �?�름
+extracells.tooltip.mode=모드
+extracells.tooltip.item=아�?�템
+extracells.tooltip.gas=가스
+extracells.tooltip.essentia=필수
+extracells.tooltip.installed=설치:
+extracells.tooltip.crafting=조합
+extracells.tooltip.deprecated1=�?� 아�?�템�?� �?� �?��? 사용�?�지 않습니다.
+extracells.tooltip.deprecated2=�?�용 �?너지학 모드�?서 %s로 대체 �?�었습니다.
+extracells.tooltip.deprecated.part=변환하고 싶으면 조합대�? 놓으세요.
+extracells.tooltip.deprecated.cell=ME 입출력 �?�트를 사용하여 �?� 셀�?� 비운 다�?� 변환하기 위해 해당 구성 요소로 분할합니다.
+
+//Buttons
+extracells.gui.craft=조합
