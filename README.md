@@ -1,5 +1,12 @@
 ![ModsGetTranslated](https://github.com/RehabCZ/ModsGetTranslated/blob/main/logo.png?raw=true)
 
-Translating mods for Minecraft (currently 1.12.2)
+# Translating mods for Minecraft
 
-Looking for translators!!
+**Version:** 1.12.2
+
+**Translators:**
+* Czech
+
+
+
+**We're looking for translators!!**
