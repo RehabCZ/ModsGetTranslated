@@ -3,8 +3,8 @@
 #Translating mods for Minecraft
 ------------------------------
 
-##Version: 1.12.2
-##Languages:
+## Version: 1.12.2
+## Languages:
 ..* Czech
 
 Looking for translators!!
