@@ -1,6 +1,6 @@
 ![ModsGetTranslated](https://github.com/RehabCZ/ModsGetTranslated/blob/main/logo.png?raw=true)
 
-Translating mods for Minecraft
+# Translating mods for Minecraft
 ------------------------------
 
 **Version:** 1.12.2
