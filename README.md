@@ -4,7 +4,9 @@
 
 **Version:** 1.12.2
 
-**Languages:**
+**Translators:**
 * Czech
+
+
 
 **We're looking for translators!!**
