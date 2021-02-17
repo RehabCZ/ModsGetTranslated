@@ -5,7 +5,7 @@
 **Version:** 1.12.2
 
 **Translators:**
-* Czech
+* Czech (Rehab_CZ, Lednicka)
 
 
 
