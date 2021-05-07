@@ -1,0 +1,10 @@
+lonelybiome.config.maintitle=Lonely Biome Konfigurace
+lonelybiome.config.biome=Biom
+lonelybiome.config.biome.tooltip=Jméno biomu, který se má generovat.
+lonelybiome.config.disable=Vypnout Lonely Biome
+lonelybiome.config.ensureStrongholds=Zajistit generaci pevností ve světě.
+lonelybiome.config.ensureStrongholds.tooltip=Pokud je toto nastaveno na true, budou se ve světě generovat pevnosti.
+lonelybiome.config.ensureVillages=Zajistit generaci vesnicí ve světě.
+lonelybiome.config.ensureVillages.tooltip=Pokud je toto nastaveno na true, budou se ve světě generovat vesnice.
+lonelybiome.config.biomeTypeBlacklist=Listina zakázaných biomů
+lonelybiome.config.biomeTypeBlacklist.tooltip=Listina s biomy, které se nebudou ve světě generovat.
